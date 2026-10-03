@@ -18269,7 +18269,8 @@
           "level": 200,
           "code": "TSE.A201",
           "title": {
-            "ja": "(Material and Molecular"
+            "ja": "材料・物性工学基礎",
+            "en": "Material and Molecular Engineering"
           },
           "sourceKind": "course-table",
           "sourcePages": [
@@ -18289,7 +18290,8 @@
           "level": 200,
           "code": "TSE.A202",
           "title": {
-            "ja": "(Solid Mechanics and"
+            "ja": "固体・構造力学基礎",
+            "en": "Solid Mechanics and Structure Engineering"
           },
           "sourceKind": "course-table",
           "sourcePages": [
@@ -19109,7 +19111,8 @@
           "level": 200,
           "code": "TSE.C202",
           "title": {
-            "ja": "（システムデザインプロジェク"
+            "ja": "システムデザインプロジェクト",
+            "en": "System Design Project"
           },
           "sourceKind": "course-table",
           "sourcePages": [
@@ -19149,7 +19152,8 @@
           "level": 200,
           "code": "TSE.C204",
           "title": {
-            "ja": "（システムデザイン＆アセスメン"
+            "ja": "システムデザイン＆インパクトアセスメント",
+            "en": "System Design & Impact Assessment"
           },
           "sourceKind": "course-table",
           "sourcePages": [
@@ -21099,7 +21103,8 @@
           "level": 200,
           "code": "TSE.M201",
           "title": {
-            "ja": "(Ordinary Differential Equations"
+            "ja": "常微分方程式と物理現象",
+            "en": "Ordinary Differential Equations and Physical Phenomena"
           },
           "sourceKind": "course-table",
           "sourcePages": [
@@ -21119,7 +21124,8 @@
           "level": 200,
           "code": "TSE.M202",
           "title": {
-            "ja": "(Partial Differential Equations and"
+            "ja": "偏微分方程式と物理現象",
+            "en": "Partial Differential Equations and Physical Phenomena"
           },
           "sourceKind": "course-table",
           "sourcePages": [
