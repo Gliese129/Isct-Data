@@ -14679,7 +14679,7 @@
           "level": 100,
           "code": "LST.A106",
           "title": {
-            "ja": "区分                                                        ける力           内容"
+            "ja": "最先端生命研究概論"
           },
           "credits": {
             "lecture": 1,
@@ -14699,7 +14699,7 @@
           "level": 100,
           "code": "LST.A109",
           "title": {
-            "ja": "全学                             【生命理工学院】"
+            "ja": "国際バイオ創造設計"
           },
           "credits": {
             "lecture": 0,
@@ -14719,7 +14719,7 @@
           "level": 100,
           "code": "LST.A110",
           "title": {
-            "ja": "専門                             【生命理工学院】"
+            "ja": "科学・技術の創造プロセス"
           },
           "credits": {
             "lecture": 1,
@@ -15099,7 +15099,7 @@
           "level": 200,
           "code": "LST.A251",
           "title": {
-            "ja": "生命理工学基礎実験・演習第                                  履修制限を設け"
+            "ja": "生命理工学基礎実験・演習第一"
           },
           "credits": {
             "lecture": 0,
@@ -15120,7 +15120,7 @@
           "level": 200,
           "code": "LST.A252",
           "title": {
-            "ja": "生命理工学基礎実験・演習第                                  履修制限を設け"
+            "ja": "生命理工学基礎実験・演習第二"
           },
           "credits": {
             "lecture": 0,
@@ -15141,7 +15141,7 @@
           "level": 200,
           "code": "LST.A253",
           "title": {
-            "ja": "生命理工学基礎実験・演習第                                  履修制限を設け"
+            "ja": "生命理工学基礎実験・演習第三"
           },
           "credits": {
             "lecture": 0,
@@ -15162,7 +15162,7 @@
           "level": 200,
           "code": "LST.A254",
           "title": {
-            "ja": "生命理工学基礎実験・演習第                                  履修制限を設け"
+            "ja": "生命理工学基礎実験・演習第四"
           },
           "credits": {
             "lecture": 0,
@@ -15504,7 +15504,7 @@
           "level": 300,
           "code": "LST.A355",
           "title": {
-            "ja": "Scientific discussions      in"
+            "ja": "Scientific discussions in English（生命科学演習）"
           },
           "credits": {
             "lecture": 1,
@@ -15644,7 +15644,7 @@
           "level": 300,
           "code": "LST.A371",
           "title": {
-            "ja": "LST Overseas Training I                               要事前承認※"
+            "ja": "LST Overseas Training I（生命海外研修第一）"
           },
           "credits": {
             "lecture": 0,
@@ -15664,7 +15664,7 @@
           "level": 300,
           "code": "LST.A372",
           "title": {
-            "ja": "LST Overseas Training II                              要事前承認※"
+            "ja": "LST Overseas Training II（生命海外研修第二）"
           },
           "credits": {
             "lecture": 0,
@@ -15684,7 +15684,7 @@
           "level": 300,
           "code": "LST.A373",
           "title": {
-            "ja": "LST Overseas Training III                             要事前承認※"
+            "ja": "LST Overseas Training III（生命海外研修第三）"
           },
           "credits": {
             "lecture": 0,
@@ -15704,7 +15704,7 @@
           "level": 300,
           "code": "LST.A374",
           "title": {
-            "ja": "LST Overseas Training IV                              要事前承認※"
+            "ja": "LST Overseas Training IV（生命海外研修第四）"
           },
           "credits": {
             "lecture": 0,
@@ -15904,7 +15904,7 @@
           "level": 300,
           "code": "LST.A391",
           "title": {
-            "ja": "専門                                 Biological Science"
+            "ja": "生物科学基礎"
           },
           "credits": {
             "lecture": 2,
@@ -15985,7 +15985,7 @@
           "level": 300,
           "code": "LST.Z383",
           "title": {
-            "ja": "関連                                 研究プロジェクト 3"
+            "ja": "研究プロジェクト3（研究応用力養成）"
           },
           "credits": {
             "lecture": 0,
@@ -16026,7 +16026,7 @@
           "level": 300,
           "code": "LST.Z380",
           "title": {
-            "ja": "学士特定課題研究Ｓ                                               早期卒業適格者認定"
+            "ja": "学士特定課題研究S（生命理工学系）"
           },
           "credits": {
             "lecture": 0,
@@ -18085,7 +18085,7 @@
           "level": 300,
           "code": "CVE.Z388",
           "title": {
-            "ja": "研究                            学士特定課題研究"
+            "ja": "学士特定課題研究（土木・環境工学系）"
           },
           "credits": {
             "lecture": 0,
@@ -18106,7 +18106,7 @@
           "level": 300,
           "code": "CVE.Z399",
           "title": {
-            "ja": "関連                            （土木・環境工学系）"
+            "ja": "学士特定課題プロジェクト（土木・環境工学系）"
           },
           "credits": {
             "lecture": 0,
@@ -18127,7 +18127,7 @@
           "level": 300,
           "code": "CVE.Z380",
           "title": {
-            "ja": "学士特定課題研究 S                                    格者認定を"
+            "ja": "学士特定課題研究S（土木・環境工学系）"
           },
           "credits": {
             "lecture": 0,
