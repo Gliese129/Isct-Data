@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 2,
+  "academicYear": 2025,
+  "source": [
+    {
+      "title": "Science Tokyo 2025年度 授業日程",
+      "url": "https://www.titech.ac.jp/student/students/life/schedules/2025"
+    }
+  ],
+  "quarters": {
+    "1Q": {
+      "start": "2025-04-04",
+      "end": "2025-06-07"
+    },
+    "2Q": {
+      "start": "2025-06-09",
+      "end": "2025-08-05"
+    },
+    "3Q": {
+      "start": "2025-09-29",
+      "end": "2025-12-02"
+    },
+    "4Q": {
+      "start": "2025-12-03",
+      "end": "2026-02-07"
+    }
+  },
+  "teachingRanges": {
+    "1Q": [
+      {
+        "start": "2025-04-05",
+        "end": "2025-05-31"
+      }
+    ],
+    "2Q": [
+      {
+        "start": "2025-06-09",
+        "end": "2025-07-28"
+      }
+    ],
+    "3Q": [
+      {
+        "start": "2025-10-01",
+        "end": "2025-11-24"
+      }
+    ],
+    "4Q": [
+      {
+        "start": "2025-12-03",
+        "end": "2026-01-31"
+      }
+    ]
+  },
+  "examRanges": {
+    "1Q": [
+      {
+        "start": "2025-05-28",
+        "end": "2025-06-07"
+      }
+    ],
+    "2Q": [
+      {
+        "start": "2025-07-29",
+        "end": "2025-08-05"
+      }
+    ],
+    "3Q": [
+      {
+        "start": "2025-11-25",
+        "end": "2025-12-02"
+      }
+    ],
+    "4Q": [
+      {
+        "start": "2026-01-28",
+        "end": "2026-02-07"
+      }
+    ]
+  },
+  "days": [
+    {
+      "date": "2025-05-02",
+      "type": "replacement",
+      "replacementDay": 2,
+      "label": {
+        "ja": "火曜日の授業"
+      }
+    },
+    {
+      "date": "2025-05-24",
+      "type": "no-class",
+      "label": {
+        "ja": "ホームカミングデイ（大岡山）のため授業休み"
+      }
+    },
+    {
+      "date": "2025-10-16",
+      "type": "replacement",
+      "replacementDay": 1,
+      "label": {
+        "ja": "月曜日の授業"
+      }
+    },
+    {
+      "date": "2025-10-22",
+      "type": "no-class",
+      "label": {
+        "ja": "入学式のため授業休み"
+      }
+    },
+    {
+      "date": "2025-11-01",
+      "type": "no-class",
+      "label": {
+        "ja": "工大祭（準備・片付け含む）のため授業休み"
+      }
+    },
+    {
+      "date": "2025-11-02",
+      "type": "no-class",
+      "label": {
+        "ja": "工大祭（準備・片付け含む）のため授業休み"
+      }
+    },
+    {
+      "date": "2025-11-03",
+      "type": "no-class",
+      "label": {
+        "ja": "工大祭（準備・片付け含む）のため授業休み"
+      }
+    },
+    {
+      "date": "2025-11-04",
+      "type": "no-class",
+      "label": {
+        "ja": "工大祭（準備・片付け含む）のため授業休み"
+      }
+    },
+    {
+      "date": "2025-11-07",
+      "type": "replacement",
+      "replacementDay": 2,
+      "label": {
+        "ja": "火曜日の授業"
+      }
+    },
+    {
+      "date": "2025-11-24",
+      "type": "replacement",
+      "replacementDay": 1,
+      "label": {
+        "ja": "月曜日の授業（祝日）"
+      }
+    },
+    {
+      "date": "2026-01-15",
+      "type": "replacement",
+      "replacementDay": 1,
+      "label": {
+        "ja": "月曜日の授業"
+      }
+    },
+    {
+      "date": "2026-01-16",
+      "type": "no-class",
+      "label": {
+        "ja": "大学入学共通テスト（準備含む）のため授業休み"
+      }
+    },
+    {
+      "date": "2026-01-17",
+      "type": "no-class",
+      "label": {
+        "ja": "大学入学共通テスト（準備含む）のため授業休み"
+      }
+    }
+  ]
+}

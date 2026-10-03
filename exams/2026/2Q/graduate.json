@@ -1,0 +1,434 @@
+{
+  "schemaVersion": 1,
+  "academicYear": 2026,
+  "timezone": "Asia/Tokyo",
+  "source": [
+    {
+      "id": "official-graduate-2026-2q",
+      "title": "Science Tokyo 2026 2Q Graduate final-exam timetable",
+      "url": "https://www.titech.ac.jp/student/pdf/life-graduate-exam-timetable.pdf",
+      "landingPageUrl": "https://www.titech.ac.jp/student/students/life/graduate-exam",
+      "publishedAt": "2026-07-21",
+      "retrievedAt": "2026-10-03T00:00:00+09:00",
+      "sha256": "61bba1126741cae100c947132d3bc57286dbe4a2a457bc723a56da3b6a83443d"
+    }
+  ],
+  "entries": [
+    {
+      "id": "2026-2Q-graduate-2026-07-29-LAL.L446-001",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "LAL.L446",
+      "date": "2026-07-29",
+      "periods": [
+        5,
+        6
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "W8E-308"
+      },
+      "label": {
+        "ja": "古典ラテン語６"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        1
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-07-29-LAL.A446-002",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "LAL.A446",
+      "date": "2026-07-29",
+      "periods": [
+        7,
+        8
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "W8E-308"
+      },
+      "label": {
+        "ja": "古典ギリシア語６"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        1
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-07-31-GEG.T413-003",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "GEG.T413",
+      "date": "2026-07-31",
+      "periods": [
+        3,
+        4
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "G3-202"
+      },
+      "label": {
+        "ja": "感性計測概論"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-07-31-MAT.M427-004",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "MAT.M427",
+      "date": "2026-07-31",
+      "periods": [
+        3,
+        4
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "S8-501"
+      },
+      "label": {
+        "ja": "移動速度論－荷電粒子の流れ－"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-08-03-CAP.C424-005",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "CAP.C424",
+      "date": "2026-08-03",
+      "periods": [
+        1,
+        2
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "S4-201"
+      },
+      "label": {
+        "ja": "反応プロセス工学特論"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-08-03-ESI.L410-006",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "ESI.L410",
+      "date": "2026-08-03",
+      "periods": [
+        5,
+        6
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "W8E-101"
+      },
+      "label": {
+        "ja": "光起電力の基礎"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-08-03-NCL.N406-007",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "NCL.N406",
+      "date": "2026-08-03",
+      "periods": [
+        5,
+        8
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "S2-203"
+      },
+      "label": {
+        "ja": "原子炉理論第二"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-08-03-MAT.P407-008",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "MAT.P407",
+      "date": "2026-08-03",
+      "periods": [
+        7,
+        8
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "S8-623"
+      },
+      "label": {
+        "ja": "電極触媒特論"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        3
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-08-04-ESI.A402-01-009",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "ESI.A402-01",
+      "date": "2026-08-04",
+      "periods": [
+        1,
+        2
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "W2-401"
+      },
+      "label": {
+        "ja": "エネルギー基礎学理第二 大岡山"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-08-04-ESI.A402-02-010",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "ESI.A402-02",
+      "date": "2026-08-04",
+      "periods": [
+        1,
+        2
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "G1-109"
+      },
+      "label": {
+        "ja": "エネルギー基礎学理第二 すずかけ"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-08-04-ART.T458-011",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "ART.T458",
+      "date": "2026-08-04",
+      "periods": [
+        3,
+        4
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "W9-324"
+      },
+      "label": {
+        "ja": "先端機械学習"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-08-04-CAP.P426-012",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "CAP.P426",
+      "date": "2026-08-04",
+      "periods": [
+        3,
+        4
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "M-356"
+      },
+      "label": {
+        "ja": "生体高分子工学特論"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-08-04-ESI.A404-01-013",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "ESI.A404-01",
+      "date": "2026-08-04",
+      "periods": [
+        3,
+        4
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "WL2-301,WL2-401"
+      },
+      "label": {
+        "ja": "エネルギーデバイス論第二 大岡山"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-08-04-ESI.A404-02-014",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "ESI.A404-02",
+      "date": "2026-08-04",
+      "periods": [
+        3,
+        4
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "J2-203"
+      },
+      "label": {
+        "ja": "エネルギーデバイス論第二 すずかけ"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-08-04-ICT.S407-015",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "ICT.S407",
+      "date": "2026-08-04",
+      "periods": [
+        3,
+        4
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "S3-215"
+      },
+      "label": {
+        "ja": "無線信号処理"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "id": "2026-2Q-graduate-2026-08-06-EEE.D532-016",
+      "kind": "exam",
+      "status": "scheduled",
+      "quarter": "2Q",
+      "courseCode": "EEE.D532",
+      "date": "2026-08-06",
+      "periods": [
+        3,
+        4
+      ],
+      "startTime": null,
+      "endTime": null,
+      "room": {
+        "ja": "G2-202"
+      },
+      "label": {
+        "ja": "光と物質基礎論 IIb"
+      },
+      "sourceIds": [
+        "official-graduate-2026-2q"
+      ],
+      "sourcePages": [
+        6
+      ]
+    }
+  ]
+}

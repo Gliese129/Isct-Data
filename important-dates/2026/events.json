@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "academicYear": 2026,
+  "timezone": "Asia/Tokyo",
+  "source": [{"id":"official-calendar-2026","title":"Science Tokyo 2026年度 授業日程","url":"https://www.titech.ac.jp/student/students/life/schedules"}],
+  "entries": [
+    {"id":"2026-04-02-ceremony-entrance","startDate":"2026-04-02","endDate":"2026-04-02","label":{"ja":"入学式"},"category":"ceremony","sourceIds":["official-calendar-2026"]},
+    {"id":"2026-09-24-ceremony-graduation","startDate":"2026-09-24","endDate":"2026-09-24","label":{"ja":"学位記授与式"},"category":"ceremony","sourceIds":["official-calendar-2026"]},
+    {"id":"2026-09-30-ceremony-entrance","startDate":"2026-09-30","endDate":"2026-09-30","label":{"ja":"入学式"},"category":"ceremony","sourceIds":["official-calendar-2026"]},
+    {"id":"2026-05-23-campus-homecoming","startDate":"2026-05-23","endDate":"2026-05-23","label":{"ja":"ホームカミングデイ in 大岡山"},"category":"other","sourceIds":["official-calendar-2026"]},
+    {"id":"2026-10-10-campus-festival","startDate":"2026-10-10","endDate":"2026-10-11","label":{"ja":"大学祭"},"category":"campus-festival","sourceIds":["official-calendar-2026"]},
+    {"id":"2027-02-25-general-selection","startDate":"2027-02-25","endDate":"2027-02-26","label":{"ja":"一般選抜「前期日程」"},"category":"academic","sourceIds":["official-calendar-2026"]}
+  ]
+}
