@@ -9398,7 +9398,7 @@
           "level": 300,
           "code": "IEE.Z388",
           "title": {
-            "ja": "研究                                  学士特定課題研究（経営工学"
+            "ja": "学士特定課題研究（経営工学系）"
           },
           "credits": {
             "lecture": 0,
@@ -9418,7 +9418,7 @@
           "level": 300,
           "code": "IEE.Z380",
           "title": {
-            "ja": "（300                                 学士特定課題研究Ｓ（経営工学"
+            "ja": "学士特定課題研究S（経営工学系）"
           },
           "credits": {
             "lecture": 0,
@@ -9438,7 +9438,7 @@
           "level": 300,
           "code": "IEE.Z399",
           "title": {
-            "ja": "台）                                  学士特定課題プロジェクト(経"
+            "ja": "学士特定課題プロジェクト（経営工学系）"
           },
           "credits": {
             "lecture": 0,
@@ -11612,7 +11612,7 @@
           "level": 200,
           "code": "CAP.O201",
           "title": {
-            "ja": "有機化学第１（アルカン・アルケ"
+            "ja": "有機化学第１（アルカン・アルケン・アルキン）"
           },
           "credits": {
             "lecture": 2,
@@ -11692,7 +11692,7 @@
           "level": 300,
           "code": "CAP.O301",
           "title": {
-            "ja": "合成有機化学（C=O 置換・縮合・C-"
+            "ja": "合成有機化学（C=O置換・縮合・C-N・環状反応）"
           },
           "credits": {
             "lecture": 1,
@@ -11732,7 +11732,7 @@
           "level": 300,
           "code": "CAP.O303",
           "title": {
-            "ja": "機器分析 B（有機分子スペクトル解"
+            "ja": "機器分析B（有機分子スペクトル解析特論）"
           },
           "credits": {
             "lecture": 1,
@@ -11792,7 +11792,7 @@
           "level": 300,
           "code": "CAP.O306",
           "title": {
-            "ja": "実践プロセス有機化学（プロセス"
+            "ja": "実践プロセス有機化学（プロセス合成・有機材料・医薬品）"
           },
           "credits": {
             "lecture": 1,
@@ -13158,7 +13158,7 @@
           "level": 300,
           "code": "CAP.Z399",
           "title": {
-            "ja": "（300                        学士特定課題プロジェクト（応用                  A,C"
+            "ja": "学士特定課題プロジェクト（応用化学）"
           },
           "credits": {
             "lecture": 0,
@@ -14583,7 +14583,7 @@
           "level": 300,
           "code": "CSC.Z381",
           "title": {
-            "ja": "研究プロジェクト（情報工学"
+            "ja": "研究プロジェクト（情報工学）"
           },
           "credits": {
             "lecture": 0,
@@ -14604,7 +14604,7 @@
           "level": 300,
           "code": "CSC.Z388",
           "title": {
-            "ja": "学士特定課題研究（情報工学"
+            "ja": "学士特定課題研究（情報工学）"
           },
           "credits": {
             "lecture": 0,
@@ -14625,7 +14625,7 @@
           "level": 300,
           "code": "CSC.Z380",
           "title": {
-            "ja": "(300                          学士特定課題研究 S（情報工学                          格者認定を"
+            "ja": "学士特定課題研究S（情報工学）"
           },
           "credits": {
             "lecture": 0,
@@ -14646,7 +14646,7 @@
           "level": 300,
           "code": "CSC.Z399",
           "title": {
-            "ja": "学士特定課題プロジェクト（情"
+            "ja": "学士特定課題プロジェクト（情報工学）"
           },
           "credits": {
             "lecture": 0,
@@ -14779,7 +14779,7 @@
           "level": 200,
           "code": "LST.A202",
           "title": {
-            "ja": "有機化学第一(アルカン，ハロ"
+            "ja": "有機化学第一（アルカン，ハロゲン化アルキル）"
           },
           "credits": {
             "lecture": 2,
@@ -14819,7 +14819,7 @@
           "level": 200,
           "code": "LST.A206",
           "title": {
-            "ja": "物理化学第二（生命の化学平"
+            "ja": "物理化学第二（生命の化学平衡）"
           },
           "credits": {
             "lecture": 2,
@@ -14839,7 +14839,7 @@
           "level": 200,
           "code": "LST.A207",
           "title": {
-            "ja": "有機化学第二(アルコール，ア"
+            "ja": "有機化学第二（アルコール，アルケン）"
           },
           "credits": {
             "lecture": 2,
@@ -14879,7 +14879,7 @@
           "level": 200,
           "code": "LST.A211",
           "title": {
-            "ja": "物理化学第三（分子軌道，相互"
+            "ja": "物理化学第三（分子軌道，相互作用）"
           },
           "credits": {
             "lecture": 2,
@@ -14899,7 +14899,7 @@
           "level": 200,
           "code": "LST.A212",
           "title": {
-            "ja": "有機化学第三(ベンゼン，ケト"
+            "ja": "有機化学第三（ベンゼン，ケトン）"
           },
           "credits": {
             "lecture": 2,
@@ -14939,7 +14939,7 @@
           "level": 200,
           "code": "LST.A217",
           "title": {
-            "ja": "専門                             有機化学第四(カルボニル化"
+            "ja": "有機化学第四（カルボニル化合物）"
           },
           "credits": {
             "lecture": 2,
@@ -15924,7 +15924,7 @@
           "level": 300,
           "code": "LST.A392",
           "title": {
-            "ja": "(300                               イノベーション創出実践"
+            "ja": "イノベーション創出実践"
           },
           "credits": {
             "lecture": 1,
@@ -16005,7 +16005,7 @@
           "level": 300,
           "code": "LST.Z388",
           "title": {
-            "ja": "(300                               学士特定課題研究"
+            "ja": "学士特定課題研究（生命理工学系）"
           },
           "credits": {
             "lecture": 0,
@@ -19122,7 +19122,7 @@
           "level": 300,
           "code": "TSE.A303",
           "title": {
-            "ja": "専門                           （強度の力学）"
+            "ja": "強度の力学"
           },
           "credits": {
             "lecture": 2,
@@ -19142,7 +19142,7 @@
           "level": 300,
           "code": "TSE.A304",
           "title": {
-            "ja": "番台）                           Industrial chemistry"
+            "ja": "工業化学"
           },
           "credits": {
             "lecture": 2,
@@ -19410,7 +19410,7 @@
           "level": 300,
           "code": "TSE.A322",
           "title": {
-            "ja": "Communication and network                                 A"
+            "ja": "コミュニケーション・ネットワーク"
           },
           "credits": {
             "lecture": 2,
@@ -19532,7 +19532,7 @@
           "level": 300,
           "code": "TSE.A337",
           "title": {
-            "ja": "Basic Nuclear Engineering 1                               A"
+            "ja": "原子力工学基礎１"
           },
           "credits": {
             "lecture": 1,
@@ -19552,7 +19552,7 @@
           "level": 300,
           "code": "TSE.A338",
           "title": {
-            "ja": "Basic Nuclear Engineering 2                               A"
+            "ja": "原子力工学基礎２"
           },
           "credits": {
             "lecture": 1,
@@ -19572,7 +19572,7 @@
           "level": 300,
           "code": "TSE.A339",
           "title": {
-            "ja": "Basic Nuclear Engineering 3                               A"
+            "ja": "原子力工学基礎３"
           },
           "credits": {
             "lecture": 1,
@@ -19593,7 +19593,7 @@
           "level": 300,
           "code": "TSE.A340",
           "title": {
-            "ja": "Basic Nuclear Engineering 4                               A"
+            "ja": "原子力工学基礎４"
           },
           "credits": {
             "lecture": 1,
@@ -19694,7 +19694,7 @@
           "level": 300,
           "code": "TSE.A345",
           "title": {
-            "ja": "(Modeling of Society and"
+            "ja": "社会のモデリング"
           },
           "credits": {
             "lecture": 0.5,
@@ -19714,7 +19714,7 @@
           "level": 300,
           "code": "TSE.A351",
           "title": {
-            "ja": "(Transdisciplinary"
+            "ja": "超学際リーダーシップ"
           },
           "credits": {
             "lecture": 0,
@@ -19735,7 +19735,7 @@
           "level": 300,
           "code": "TSE.A352",
           "title": {
-            "ja": "(Transdisciplinary"
+            "ja": "超学際プロジェクト"
           },
           "credits": {
             "lecture": 0,
@@ -19879,7 +19879,7 @@
           "level": 300,
           "code": "TSE.C321",
           "title": {
-            "ja": "（エネルギーと環境（融合理"
+            "ja": "エネルギーと環境（融合理工）"
           },
           "credits": {
             "lecture": 0.5,
@@ -19940,7 +19940,7 @@
           "level": 300,
           "code": "TSE.C343",
           "title": {
-            "ja": "融合理工学海外研修                                                 C"
+            "ja": "融合理工学海外研修（短期）"
           },
           "credits": {
             "lecture": 0,
@@ -20160,7 +20160,7 @@
           "level": 300,
           "code": "TSE.C357",
           "title": {
-            "ja": "融合理工学海外研修                         C"
+            "ja": "融合理工学海外研修（単位認定併用）S"
           },
           "credits": {
             "lecture": 0,
@@ -20180,7 +20180,7 @@
           "level": 300,
           "code": "TSE.C358",
           "title": {
-            "ja": "融合理工学海外研修                         C"
+            "ja": "融合理工学海外研修（単位認定併用）F"
           },
           "credits": {
             "lecture": 0,
@@ -20200,7 +20200,7 @@
           "level": 300,
           "code": "TSE.C361",
           "title": {
-            "ja": "融合理工学インターンシップ                     C"
+            "ja": "融合理工学インターンシップ（超短期）A"
           },
           "credits": {
             "lecture": 0,
@@ -20220,7 +20220,7 @@
           "level": 300,
           "code": "TSE.C362",
           "title": {
-            "ja": "融合理工学インターンシップ                     C"
+            "ja": "融合理工学インターンシップ（超短期）B"
           },
           "credits": {
             "lecture": 0,
@@ -20240,7 +20240,7 @@
           "level": 300,
           "code": "TSE.C363",
           "title": {
-            "ja": "融合理工学インターンシップ                     C"
+            "ja": "融合理工学インターンシップ（中期）A"
           },
           "credits": {
             "lecture": 0,
@@ -20260,7 +20260,7 @@
           "level": 300,
           "code": "TSE.C364",
           "title": {
-            "ja": "融合理工学インターンシップ                     C"
+            "ja": "融合理工学インターンシップ（中期）B"
           },
           "credits": {
             "lecture": 0,
@@ -20280,7 +20280,7 @@
           "level": 300,
           "code": "TSE.C365",
           "title": {
-            "ja": "融合理工学インターンシップ                     C"
+            "ja": "融合理工学インターンシップ（中期）C"
           },
           "credits": {
             "lecture": 0,
@@ -20300,7 +20300,7 @@
           "level": 300,
           "code": "TSE.C366",
           "title": {
-            "ja": "融合理工学インターンシップ                     C"
+            "ja": "融合理工学インターンシップ（中期）D"
           },
           "credits": {
             "lecture": 0,
@@ -20320,7 +20320,7 @@
           "level": 300,
           "code": "TSE.C367",
           "title": {
-            "ja": "融合理工学インターンシップ                     C"
+            "ja": "融合理工学インターンシップ（中期）E"
           },
           "credits": {
             "lecture": 0,
@@ -20340,7 +20340,7 @@
           "level": 300,
           "code": "TSE.C368",
           "title": {
-            "ja": "融合理工学インターンシップ                     C"
+            "ja": "融合理工学インターンシップ（中期）F"
           },
           "credits": {
             "lecture": 0,
@@ -20360,7 +20360,7 @@
           "level": 300,
           "code": "TSE.C369",
           "title": {
-            "ja": "番台）                       融合理工学インターンシップ                     C"
+            "ja": "融合理工学インターンシップ（中期）A"
           },
           "credits": {
             "lecture": 0,
@@ -20380,7 +20380,7 @@
           "level": 300,
           "code": "TSE.C370",
           "title": {
-            "ja": "融合理工学インターンシップ                     C"
+            "ja": "融合理工学インターンシップ（中期）B"
           },
           "credits": {
             "lecture": 0,
@@ -20400,7 +20400,7 @@
           "level": 300,
           "code": "TSE.C371",
           "title": {
-            "ja": "融合理工学インターンシップ                     C"
+            "ja": "融合理工学インターンシップ（中期）C"
           },
           "credits": {
             "lecture": 0,
@@ -20420,7 +20420,7 @@
           "level": 300,
           "code": "TSE.C372",
           "title": {
-            "ja": "融合理工学インターンシップ                     C"
+            "ja": "融合理工学インターンシップ（中期）D"
           },
           "credits": {
             "lecture": 0,
@@ -20503,7 +20503,7 @@
           "level": 300,
           "code": "TSE.Z399",
           "title": {
-            "ja": "学士特定課題プロジェクト（融合理"
+            "ja": "学士特定課題プロジェクト（融合理工学系）"
           },
           "credits": {
             "lecture": 0,
