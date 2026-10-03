@@ -8,69 +8,2724 @@
     }
   ],
   "departments": [
-    {"id":"math","name":{"ja":"数学系","en":"Mathematics"},"syllabusScope":"1/0-901-311100-0-0","unitCode":"311100","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-01.pdf","recommended":[]},
-    {"id":"physics","name":{"ja":"物理学系","en":"Physics"},"syllabusScope":"1/0-901-311200-0-0","unitCode":"311200","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-02.pdf","recommended":[]},
-    {"id":"chemistry","name":{"ja":"化学系","en":"Chemistry"},"syllabusScope":"1/0-901-311300-0-0","unitCode":"311300","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-03.pdf","recommended":[]},
-    {"id":"eps","name":{"ja":"地球惑星科学系","en":"Earth and Planetary Sciences"},"syllabusScope":"1/0-901-311400-0-0","unitCode":"311400","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-04.pdf","recommended":[]},
-    {"id":"mech","name":{"ja":"機械系","en":"Mechanical Engineering"},"syllabusScope":"2/0-902-321500-0-0","unitCode":"321500","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-05.pdf","recommended":[]},
-    {"id":"sc","name":{"ja":"システム制御系","en":"Systems and Control Engineering"},"syllabusScope":"2/0-902-321600-0-0","unitCode":"321600","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-06.pdf","recommended":[]},
-    {"id":"ee","name":{"ja":"電気電子系","en":"Electrical and Electronic Engineering"},"syllabusScope":"2/0-902-321700-0-0","unitCode":"321700","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-07.pdf","recommended":[]},
-    {"id":"ict","name":{"ja":"情報通信系","en":"Information and Communications Engineering"},"syllabusScope":"2/0-902-321800-0-0","unitCode":"321800","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-08.pdf","recommended":[]},
-    {"id":"ie","name":{"ja":"経営工学系","en":"Industrial Engineering and Economics"},"syllabusScope":"2/0-902-321900-0-0","unitCode":"321900","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-09.pdf","recommended":[]},
-    {"id":"mat","name":{"ja":"材料系","en":"Materials Science and Engineering"},"syllabusScope":"3/0-903-332000-0-0","unitCode":"332000","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-10.pdf","recommended":[]},
-    {"id":"chem-eng","name":{"ja":"応用化学系","en":"Chemical Science and Engineering"},"syllabusScope":"3/0-903-332100-0-0","unitCode":"332100","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-11.pdf","recommended":[]},
-    {"id":"mcs","name":{"ja":"数理・計算科学系","en":"Mathematical and Computing Science"},"syllabusScope":"4/0-904-342200-0-0","unitCode":"342200","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-12.pdf","recommended":[]},
     {
-      "id":"cs",
-      "name":{"ja":"情報工学系","en":"Computer Science"},
-      "syllabusScope":"4/0-904-342300-0-0",
-      "unitCode":"342300",
-      "guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-13.pdf",
-      "recommended":[
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T241","group":"A","mark":"recommended","title":{"ja":"計算基礎論"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"A群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T242","group":"A","mark":"recommended","title":{"ja":"確率論・統計学"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"A群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T243","group":"C","mark":"recommended","title":{"ja":"手続き型プログラミング基礎"},"credits":{"lecture":2.0,"exercise":1.0,"lab":0.0},"competencies":[1,5],"content":["a","b"],"note":"C群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T244","group":"C","mark":"recommended","title":{"ja":"プログラミング創造演習"},"credits":{"lecture":0.0,"exercise":6.0,"lab":0.0},"competencies":[1,5],"content":["a","b"],"note":"C群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T251","group":"A","mark":"recommended","title":{"ja":"オートマトンと形式言語"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a","b"],"note":"A群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T252","group":"A","mark":"recommended","title":{"ja":"論理回路理論"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"A群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T253","group":"C","mark":"recommended","title":{"ja":"手続き型プログラミング発展"},"credits":{"lecture":2.0,"exercise":1.0,"lab":0.0},"competencies":[1,5],"content":["a","b"],"note":"C群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T254","group":"A","mark":"recommended","title":{"ja":"機械学習"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"A群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T255","group":"B","mark":"recommended","title":{"ja":"組み合わせゲーム理論入門"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T261","group":"A","mark":"recommended","title":{"ja":"情報論理"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1,4,5],"content":["a","b"],"note":"A群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T262","group":"A","mark":"recommended","title":{"ja":"アセンブリ言語"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1,5],"content":["a"],"note":"A群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T263","group":"C","mark":"recommended","title":{"ja":"関数型プログラミング基礎"},"credits":{"lecture":1.0,"exercise":1.0,"lab":0.0},"competencies":[1,5],"content":["a","b"],"note":"C群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T271","group":"A","mark":"recommended","title":{"ja":"データ構造とアルゴリズム"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1,5],"content":["a","b"],"note":"A群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T272","group":"B","mark":"recommended","title":{"ja":"人工知能"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":200,"code":"CSC.T273","group":"C","mark":"recommended","title":{"ja":"オブジェクト指向プログラミング"},"credits":{"lecture":1.0,"exercise":1.0,"lab":0.0},"competencies":[1,5],"content":["a","b"],"note":"C群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T341","group":"A","mark":"recommended","title":{"ja":"コンピュータ論理設計"},"credits":{"lecture":2.0,"exercise":1.0,"lab":0.0},"competencies":[1,5],"content":["a","b"],"note":"A群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T342","group":"B","mark":"recommended","title":{"ja":"最適化基礎"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T343","group":"B","mark":"recommended","title":{"ja":"データベース"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1,5],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T344","group":"B","mark":"recommended","title":{"ja":"システムプログラミング"},"credits":{"lecture":1.0,"exercise":1.0,"lab":0.0},"competencies":[1,5],"content":["a","b"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T345","group":"B","mark":"recommended","title":{"ja":"コンピュータネットワーク"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T351","group":"B","mark":"recommended","title":{"ja":"システム解析"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T352","group":"B","mark":"recommended","title":{"ja":"パターン認識"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T353","group":"B","mark":"recommended","title":{"ja":"生命情報解析"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1,4],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T354","group":"B","mark":"recommended","title":{"ja":"並列プログラミング"},"credits":{"lecture":1.0,"exercise":1.0,"lab":0.0},"competencies":[1,5],"content":["a","b"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T361","group":"B","mark":"recommended","title":{"ja":"ソフトウェア設計と品質"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T362","group":"B","mark":"recommended","title":{"ja":"数値計算法"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T363","group":"B","mark":"recommended","title":{"ja":"コンピュータアーキテクチャ"},"credits":{"lecture":2.0,"exercise":1.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T364","group":"C","mark":"recommended","title":{"ja":"システム設計演習"},"credits":{"lecture":0.0,"exercise":2.0,"lab":0.0},"competencies":[1,4,5],"content":["a","b"],"note":"C群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T365","group":"B","mark":"recommended","title":{"ja":"時系列モデリング"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T371","group":"A","mark":"recommended","title":{"ja":"システムソフトウェア"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"A群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T372","group":"B","mark":"recommended","title":{"ja":"コンパイラ構成"},"credits":{"lecture":1.0,"exercise":1.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T373","group":"B","mark":"recommended","title":{"ja":"動的システム"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1,5],"content":["a","b"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T374","group":"B","mark":"recommended","title":{"ja":"システム制御"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[1],"content":["a"],"note":"B群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T375","group":"C","mark":"recommended","title":{"ja":"システム構築演習"},"credits":{"lecture":0.0,"exercise":2.0,"lab":0.0},"competencies":[1,5],"content":["a","b"],"note":"C群"},
-        {"category":{"ja":"専門科目","en":"Major courses"},"level":300,"code":"CSC.T377","group":"L","title":{"ja":"情報工学英語プレゼンテーション"},"credits":{"lecture":2.0,"exercise":0.0,"lab":0.0},"competencies":[2,3],"content":["e"],"note":"アントレ対応科目"},
-        {"category":{"ja":"研究関連科目","en":"Research-related courses"},"level":300,"code":"CSC.Z381","group":"R","mark":"required","title":{"ja":"研究プロジェクト（情報工学系）"},"credits":{"lecture":0.0,"exercise":0.0,"lab":2.0},"competencies":[1,4,5],"content":["c"]},
-        {"category":{"ja":"研究関連科目","en":"Research-related courses"},"level":300,"code":"CSC.Z388","group":"R","mark":"required","title":{"ja":"学士特定課題研究（情報工学系）"},"credits":{"lecture":0.0,"exercise":0.0,"lab":4.0},"competencies":[1,4,5],"content":["c","e"]},
-        {"category":{"ja":"研究関連科目","en":"Research-related courses"},"level":300,"code":"CSC.Z380","group":"R","mark":"required","title":{"ja":"学士特定課題研究 S（情報工学系）"},"credits":{"lecture":0.0,"exercise":0.0,"lab":8.0},"competencies":[1,4,5],"content":["c","e"],"note":"早期卒業適格者認定を受けた者限定科目"},
-        {"category":{"ja":"研究関連科目","en":"Research-related courses"},"level":300,"code":"CSC.Z399","group":"R","mark":"required","title":{"ja":"学士特定課題プロジェクト（情報工学系）"},"credits":{"lecture":0.0,"exercise":0.0,"lab":6.0},"competencies":[1,4,5],"content":["c","e"]}
+      "id": "math",
+      "name": {
+        "ja": "数学系",
+        "en": "Mathematics"
+      },
+      "syllabusScope": "1/0-901-311100-0-0",
+      "unitCode": "311100",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-01.pdf",
+      "recommended": []
+    },
+    {
+      "id": "physics",
+      "name": {
+        "ja": "物理学系",
+        "en": "Physics"
+      },
+      "syllabusScope": "1/0-901-311200-0-0",
+      "unitCode": "311200",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-02.pdf",
+      "recommended": []
+    },
+    {
+      "id": "chemistry",
+      "name": {
+        "ja": "化学系",
+        "en": "Chemistry"
+      },
+      "syllabusScope": "1/0-901-311300-0-0",
+      "unitCode": "311300",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-03.pdf",
+      "recommended": []
+    },
+    {
+      "id": "eps",
+      "name": {
+        "ja": "地球惑星科学系",
+        "en": "Earth and Planetary Sciences"
+      },
+      "syllabusScope": "1/0-901-311400-0-0",
+      "unitCode": "311400",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-04.pdf",
+      "recommended": []
+    },
+    {
+      "id": "mech",
+      "name": {
+        "ja": "機械系",
+        "en": "Mechanical Engineering"
+      },
+      "syllabusScope": "2/0-902-321500-0-0",
+      "unitCode": "321500",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-05.pdf",
+      "recommended": []
+    },
+    {
+      "id": "sc",
+      "name": {
+        "ja": "システム制御系",
+        "en": "Systems and Control Engineering"
+      },
+      "syllabusScope": "2/0-902-321600-0-0",
+      "unitCode": "321600",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-06.pdf",
+      "recommended": []
+    },
+    {
+      "id": "ee",
+      "name": {
+        "ja": "電気電子系",
+        "en": "Electrical and Electronic Engineering"
+      },
+      "syllabusScope": "2/0-902-321700-0-0",
+      "unitCode": "321700",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-07.pdf",
+      "recommended": []
+    },
+    {
+      "id": "ict",
+      "name": {
+        "ja": "情報通信系",
+        "en": "Information and Communications Engineering"
+      },
+      "syllabusScope": "2/0-902-321800-0-0",
+      "unitCode": "321800",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-08.pdf",
+      "recommended": []
+    },
+    {
+      "id": "ie",
+      "name": {
+        "ja": "経営工学系",
+        "en": "Industrial Engineering and Economics"
+      },
+      "syllabusScope": "2/0-902-321900-0-0",
+      "unitCode": "321900",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-09.pdf",
+      "recommended": []
+    },
+    {
+      "id": "mat",
+      "name": {
+        "ja": "材料系",
+        "en": "Materials Science and Engineering"
+      },
+      "syllabusScope": "3/0-903-332000-0-0",
+      "unitCode": "332000",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-10.pdf",
+      "recommended": []
+    },
+    {
+      "id": "chem-eng",
+      "name": {
+        "ja": "応用化学系",
+        "en": "Chemical Science and Engineering"
+      },
+      "syllabusScope": "3/0-903-332100-0-0",
+      "unitCode": "332100",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-11.pdf",
+      "recommended": [
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.O202",
+          "title": {
+            "ja": "有機化学第２（C-X）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.O202.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.O203",
+          "title": {
+            "ja": "有機化学第３（ベンゼン・C-O）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.O203.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.O204",
+          "title": {
+            "ja": "有機化学第４（C=O・C≡N）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.O204.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.O302",
+          "title": {
+            "ja": "生物有機化学（生理活性低分子）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.O302.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.O304",
+          "title": {
+            "ja": "計算分子化学（構造有機化学）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.O304.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.O305",
+          "title": {
+            "ja": "実践有機化学論（合成実施例）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.O305.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.N201",
+          "title": {
+            "ja": "無機化学１（結合）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.N201.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.N202",
+          "title": {
+            "ja": "無機化学２（構造・反応）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.N202.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.N203",
+          "title": {
+            "ja": "無機化学３（元素・化合物）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.N203.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.N204",
+          "title": {
+            "ja": "無機化学４（群論）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.N204.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.N205",
+          "title": {
+            "ja": "無機化学５（錯体構造）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.N205.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.N301",
+          "title": {
+            "ja": "錯体反応化学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.N301.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.N302",
+          "title": {
+            "ja": "無機材料化学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.N302.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.N303",
+          "title": {
+            "ja": "錯体触媒化学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.N303.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.N304",
+          "title": {
+            "ja": "無機固体化学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.N304.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.N305",
+          "title": {
+            "ja": "機器分析 A（表面・X 線・電気等）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.N305.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.N306",
+          "title": {
+            "ja": "計算材料化学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.N306.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.H201",
+          "title": {
+            "ja": "物理化学１（熱力学）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.H201.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.H202",
+          "title": {
+            "ja": "物理化学２（化学平衡）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.H202.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.H203",
+          "title": {
+            "ja": "物理化学３（反応速度）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.H203.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.H204",
+          "title": {
+            "ja": "物理化学４（統計力学）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.H204.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.H205",
+          "title": {
+            "ja": "量子化学１（量子力学）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.H205.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.H206",
+          "title": {
+            "ja": "量子化学２（分子軌道）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.H206.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.H301",
+          "title": {
+            "ja": "電気化学１（基礎）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.H301.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.H302",
+          "title": {
+            "ja": "電気化学２（応用）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Official course-table code: CAP.H302.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.H303",
+          "title": {
+            "ja": "分子運動論"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2,
+            3
+          ],
+          "note": "Official course-table code: CAP.H303.L; learning-content: B; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.H304",
+          "title": {
+            "ja": "固体触媒化学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2,
+            3
+          ],
+          "note": "Official course-table code: CAP.H304.L; learning-content: B; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.Y201",
+          "title": {
+            "ja": "高分子化学基礎"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2,
+            3
+          ],
+          "note": "Official course-table code: CAP.Y201.L; learning-content: A; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.Y202",
+          "title": {
+            "ja": "高分子合成１（逐次重合）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2,
+            3
+          ],
+          "note": "Official course-table code: CAP.Y202.L; learning-content: A; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.Y203",
+          "title": {
+            "ja": "高分子合成２（連鎖重合）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Y203.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.Y204",
+          "title": {
+            "ja": "高分子物性１（溶液物性）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Y204.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.Y205",
+          "title": {
+            "ja": "高分子物性２（固体構造）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Y205.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Y301",
+          "title": {
+            "ja": "高分子反応"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Y301.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Y302",
+          "title": {
+            "ja": "高分子レオロジー"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Y302.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Y303",
+          "title": {
+            "ja": "架橋反応"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Y303.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Y304",
+          "title": {
+            "ja": "高分子応用物性"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Y304.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Y305",
+          "title": {
+            "ja": "生体高分子化学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Y305.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Y306",
+          "title": {
+            "ja": "高分子特性解析"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Y306.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Y307",
+          "title": {
+            "ja": "高分子材料化学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Y307.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.G201",
+          "title": {
+            "ja": "化学工学基礎"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.G201.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.G202",
+          "title": {
+            "ja": "化学工学１（相界面工学）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.G202.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.G203",
+          "title": {
+            "ja": "化学工学２（分子拡散）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.G203.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.G204",
+          "title": {
+            "ja": "化学工学３（反応工学基礎）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.G204.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.G205",
+          "title": {
+            "ja": "化学工学４（移動現象基礎）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.G205.L; learning-content: A"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.G301",
+          "title": {
+            "ja": "生物化学工学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.G301.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.G302",
+          "title": {
+            "ja": "移動現象工学（流動・伝熱）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.G302.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.G303",
+          "title": {
+            "ja": "反応工学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.G303.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.G304",
+          "title": {
+            "ja": "計算化学工学１（基礎）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.G304.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.G305",
+          "title": {
+            "ja": "分離工学１（流体系）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.G305.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.G306",
+          "title": {
+            "ja": "分離工学２（固相系）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.G306.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.G307",
+          "title": {
+            "ja": "プロセス制御工学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.G307.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.G308",
+          "title": {
+            "ja": "計算化学工学２（応用）"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.G308.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.Q213",
+          "title": {
+            "ja": "応用解析入門第一"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Q213.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.Q214",
+          "title": {
+            "ja": "応用解析入門第二"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Q214.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.Q216",
+          "title": {
+            "ja": "エレクトロニクスの基礎"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Q216.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Q333",
+          "title": {
+            "ja": "地球の化学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Q333.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Q361",
+          "title": {
+            "ja": "放射化学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Q361.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Q302",
+          "title": {
+            "ja": "科学技術者実践英語"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Q302.L"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Q303",
+          "title": {
+            "ja": "エネルギー学理概論"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Q303.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Q304",
+          "title": {
+            "ja": "人間医療科学技術基礎概論"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Q304.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Q305",
+          "title": {
+            "ja": "原子力エネルギー工学概論"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Official course-table code: CAP.Q305.L; learning-content: B"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Q309",
+          "title": {
+            "ja": "応用化学トピックス第三"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.Q309.L; learning-content: B, D"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Q311",
+          "title": {
+            "ja": "応用化学インターンシップ第一"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 1
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.Q311.L; learning-content: D"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Q312",
+          "title": {
+            "ja": "応用化学インターンシップ第二"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 1
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.Q312.L; learning-content: D"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.F201",
+          "title": {
+            "ja": "◎ 応用化学実験第一 a/b"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 2
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.F201.R; learning-content: A",
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.F202",
+          "title": {
+            "ja": "◎ 応用化学実験第一 b/a"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 2
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.F202.R; learning-content: A",
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.F203",
+          "title": {
+            "ja": "◎ 応用化学実験第二 a/b"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 2
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.F203.R; learning-content: A",
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 200,
+          "code": "CAP.F204",
+          "title": {
+            "ja": "◎ 応用化学実験第二 b/a"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 2
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.F204.R; learning-content: A",
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.F301",
+          "title": {
+            "ja": "◎ 応用化学実験第三"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 2
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.F301.R; learning-content: A",
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.F302",
+          "title": {
+            "ja": "◎ 応用化学実験第四 a/b"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 2
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.F302.R; learning-content: A",
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.F303",
+          "title": {
+            "ja": "◎ 応用化学実験第四 b/a"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 2
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.F303.R; learning-content: A",
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Z381",
+          "title": {
+            "ja": "◎ 研究プロジェクト（応用化学）"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 2,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.Z381.R; learning-content: A, C, E",
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Z388",
+          "title": {
+            "ja": "◎ 学士特定課題研究（応用化学）"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.Z388.R; learning-content: A, C, E",
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Z399",
+          "title": {
+            "ja": "◎ 学士特定課題プロジェクト（応用化学）"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 6
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.Z399.R; learning-content: A, C, E",
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "応用化学系専門科目"
+          },
+          "level": 300,
+          "code": "CAP.Z380",
+          "title": {
+            "ja": "◎ 学士特定課題研究 S（応用化学）"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 8
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Official course-table code: CAP.Z380.R; learning-content: A, C, E",
+          "mark": "required"
+        }
       ]
     },
-    {"id":"life","name":{"ja":"生命理工学系","en":"Life Science and Technology"},"syllabusScope":"5/0-905-352400-0-0","unitCode":"352400","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-14.pdf","recommended":[]},
-    {"id":"arch","name":{"ja":"建築学系","en":"Architecture and Building Engineering"},"syllabusScope":"6/0-906-362500-0-0","unitCode":"362500","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-15.pdf","recommended":[]},
-    {"id":"civil","name":{"ja":"土木・環境工学系","en":"Civil and Environmental Engineering"},"syllabusScope":"6/0-906-362600-0-0","unitCode":"362600","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-16.pdf","recommended":[]},
-    {"id":"transdisciplinary","name":{"ja":"融合理工学系","en":"Transdisciplinary Science and Engineering"},"syllabusScope":"6/0-906-362700-0-0","unitCode":"362700","guidePdf":"https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-17.pdf","recommended":[]}
+    {
+      "id": "mcs",
+      "name": {
+        "ja": "数理・計算科学系",
+        "en": "Mathematical and Computing Science"
+      },
+      "syllabusScope": "4/0-904-342200-0-0",
+      "unitCode": "342200",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-12.pdf",
+      "recommended": []
+    },
+    {
+      "id": "cs",
+      "name": {
+        "ja": "情報工学系",
+        "en": "Computer Science"
+      },
+      "syllabusScope": "4/0-904-342300-0-0",
+      "unitCode": "342300",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-13.pdf",
+      "recommended": [
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T241",
+          "group": "A",
+          "mark": "recommended",
+          "title": {
+            "ja": "計算基礎論"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "A群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T242",
+          "group": "A",
+          "mark": "recommended",
+          "title": {
+            "ja": "確率論・統計学"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "A群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T243",
+          "group": "C",
+          "mark": "recommended",
+          "title": {
+            "ja": "手続き型プログラミング基礎"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 1.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            5
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "C群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T244",
+          "group": "C",
+          "mark": "recommended",
+          "title": {
+            "ja": "プログラミング創造演習"
+          },
+          "credits": {
+            "lecture": 0.0,
+            "exercise": 6.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            5
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "C群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T251",
+          "group": "A",
+          "mark": "recommended",
+          "title": {
+            "ja": "オートマトンと形式言語"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "A群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T252",
+          "group": "A",
+          "mark": "recommended",
+          "title": {
+            "ja": "論理回路理論"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "A群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T253",
+          "group": "C",
+          "mark": "recommended",
+          "title": {
+            "ja": "手続き型プログラミング発展"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 1.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            5
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "C群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T254",
+          "group": "A",
+          "mark": "recommended",
+          "title": {
+            "ja": "機械学習"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "A群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T255",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "組み合わせゲーム理論入門"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T261",
+          "group": "A",
+          "mark": "recommended",
+          "title": {
+            "ja": "情報論理"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            4,
+            5
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "A群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T262",
+          "group": "A",
+          "mark": "recommended",
+          "title": {
+            "ja": "アセンブリ言語"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            5
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "A群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T263",
+          "group": "C",
+          "mark": "recommended",
+          "title": {
+            "ja": "関数型プログラミング基礎"
+          },
+          "credits": {
+            "lecture": 1.0,
+            "exercise": 1.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            5
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "C群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T271",
+          "group": "A",
+          "mark": "recommended",
+          "title": {
+            "ja": "データ構造とアルゴリズム"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            5
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "A群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T272",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "人工知能"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 200,
+          "code": "CSC.T273",
+          "group": "C",
+          "mark": "recommended",
+          "title": {
+            "ja": "オブジェクト指向プログラミング"
+          },
+          "credits": {
+            "lecture": 1.0,
+            "exercise": 1.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            5
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "C群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T341",
+          "group": "A",
+          "mark": "recommended",
+          "title": {
+            "ja": "コンピュータ論理設計"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 1.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            5
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "A群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T342",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "最適化基礎"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T343",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "データベース"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            5
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T344",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "システムプログラミング"
+          },
+          "credits": {
+            "lecture": 1.0,
+            "exercise": 1.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            5
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T345",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "コンピュータネットワーク"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T351",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "システム解析"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T352",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "パターン認識"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T353",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "生命情報解析"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            4
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T354",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "並列プログラミング"
+          },
+          "credits": {
+            "lecture": 1.0,
+            "exercise": 1.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            5
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T361",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "ソフトウェア設計と品質"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T362",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "数値計算法"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T363",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "コンピュータアーキテクチャ"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 1.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T364",
+          "group": "C",
+          "mark": "recommended",
+          "title": {
+            "ja": "システム設計演習"
+          },
+          "credits": {
+            "lecture": 0.0,
+            "exercise": 2.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            4,
+            5
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "C群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T365",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "時系列モデリング"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T371",
+          "group": "A",
+          "mark": "recommended",
+          "title": {
+            "ja": "システムソフトウェア"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "A群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T372",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "コンパイラ構成"
+          },
+          "credits": {
+            "lecture": 1.0,
+            "exercise": 1.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T373",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "動的システム"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            5
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T374",
+          "group": "B",
+          "mark": "recommended",
+          "title": {
+            "ja": "システム制御"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1
+          ],
+          "content": [
+            "a"
+          ],
+          "note": "B群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T375",
+          "group": "C",
+          "mark": "recommended",
+          "title": {
+            "ja": "システム構築演習"
+          },
+          "credits": {
+            "lecture": 0.0,
+            "exercise": 2.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            1,
+            5
+          ],
+          "content": [
+            "a",
+            "b"
+          ],
+          "note": "C群"
+        },
+        {
+          "category": {
+            "ja": "専門科目",
+            "en": "Major courses"
+          },
+          "level": 300,
+          "code": "CSC.T377",
+          "group": "L",
+          "title": {
+            "ja": "情報工学英語プレゼンテーション"
+          },
+          "credits": {
+            "lecture": 2.0,
+            "exercise": 0.0,
+            "lab": 0.0
+          },
+          "competencies": [
+            2,
+            3
+          ],
+          "content": [
+            "e"
+          ],
+          "note": "アントレ対応科目"
+        },
+        {
+          "category": {
+            "ja": "研究関連科目",
+            "en": "Research-related courses"
+          },
+          "level": 300,
+          "code": "CSC.Z381",
+          "group": "R",
+          "mark": "required",
+          "title": {
+            "ja": "研究プロジェクト（情報工学系）"
+          },
+          "credits": {
+            "lecture": 0.0,
+            "exercise": 0.0,
+            "lab": 2.0
+          },
+          "competencies": [
+            1,
+            4,
+            5
+          ],
+          "content": [
+            "c"
+          ]
+        },
+        {
+          "category": {
+            "ja": "研究関連科目",
+            "en": "Research-related courses"
+          },
+          "level": 300,
+          "code": "CSC.Z388",
+          "group": "R",
+          "mark": "required",
+          "title": {
+            "ja": "学士特定課題研究（情報工学系）"
+          },
+          "credits": {
+            "lecture": 0.0,
+            "exercise": 0.0,
+            "lab": 4.0
+          },
+          "competencies": [
+            1,
+            4,
+            5
+          ],
+          "content": [
+            "c",
+            "e"
+          ]
+        },
+        {
+          "category": {
+            "ja": "研究関連科目",
+            "en": "Research-related courses"
+          },
+          "level": 300,
+          "code": "CSC.Z380",
+          "group": "R",
+          "mark": "required",
+          "title": {
+            "ja": "学士特定課題研究 S（情報工学系）"
+          },
+          "credits": {
+            "lecture": 0.0,
+            "exercise": 0.0,
+            "lab": 8.0
+          },
+          "competencies": [
+            1,
+            4,
+            5
+          ],
+          "content": [
+            "c",
+            "e"
+          ],
+          "note": "早期卒業適格者認定を受けた者限定科目"
+        },
+        {
+          "category": {
+            "ja": "研究関連科目",
+            "en": "Research-related courses"
+          },
+          "level": 300,
+          "code": "CSC.Z399",
+          "group": "R",
+          "mark": "required",
+          "title": {
+            "ja": "学士特定課題プロジェクト（情報工学系）"
+          },
+          "credits": {
+            "lecture": 0.0,
+            "exercise": 0.0,
+            "lab": 6.0
+          },
+          "competencies": [
+            1,
+            4,
+            5
+          ],
+          "content": [
+            "c",
+            "e"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "life",
+      "name": {
+        "ja": "生命理工学系",
+        "en": "Life Science and Technology"
+      },
+      "syllabusScope": "5/0-905-352400-0-0",
+      "unitCode": "352400",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-14.pdf",
+      "recommended": []
+    },
+    {
+      "id": "arch",
+      "name": {
+        "ja": "建築学系",
+        "en": "Architecture and Building Engineering"
+      },
+      "syllabusScope": "6/0-906-362500-0-0",
+      "unitCode": "362500",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-15.pdf",
+      "recommended": []
+    },
+    {
+      "id": "civil",
+      "name": {
+        "ja": "土木・環境工学系",
+        "en": "Civil and Environmental Engineering"
+      },
+      "syllabusScope": "6/0-906-362600-0-0",
+      "unitCode": "362600",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-16.pdf",
+      "recommended": []
+    },
+    {
+      "id": "transdisciplinary",
+      "name": {
+        "ja": "融合理工学系",
+        "en": "Transdisciplinary Science and Engineering"
+      },
+      "syllabusScope": "6/0-906-362700-0-0",
+      "unitCode": "362700",
+      "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-17.pdf",
+      "recommended": []
+    }
   ]
 }

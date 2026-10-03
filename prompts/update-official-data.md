@@ -1,0 +1,20 @@
+# Official data update guidance
+
+Use the current official landing page and linked PDF as the authority for each academic year. Record source title, URL, retrieval timestamp, SHA-256, and PDF page numbers. A newer PDF supersedes an older copy only after checking the landing page and year.
+
+Course extraction rules:
+
+- Treat a department's course-table, standard-plan, or curriculum-map rows as the `recommended` container for published study guidance. Do not infer that an empty extraction means no recommended courses.
+- Read each department's own table semantics. Do not use a universal regular expression for group, mark, credits, or content. Only set `mark` when the PDF explicitly marks a course required or recommended; preserve unexplained symbols in `note`.
+- Keep the base course code for matching and preserve the full PDF code/suffix in `note`. Store exact Japanese titles and published credits. Omit fields the PDF does not publish; never use zero as a placeholder.
+- Parse first, compare extracted codes against the PDF, then visually inspect every difference and wrapped or diagram row. Curriculum-map entries that cannot be matched to a code belong in extraction notes, not invented records.
+
+Calendar and exam rules:
+
+- Keep teaching and exam intervals fragmented exactly as published; never join across a break. Important events are separate from closure overrides. Add official national holidays and preserve an explicit campus replacement/no-class override on the same date.
+- Exam periods are the published period allocation. Do not invent exact minutes. Include only final-exam rows, remove visually struck-through rows, and keep official English titles only where the PDF supplies them.
+
+Localization and completeness:
+
+- Japanese is authoritative. An English translation must be labelled `labelEnglishSource: "translation"`; an official English string is labelled `official`.
+- Every source must retain the official landing page and artifact URL. Missing historical editions are documented as gaps; they are never represented as a claim that no course or exam exists.
