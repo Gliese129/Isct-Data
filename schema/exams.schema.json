@@ -171,12 +171,10 @@
           "$ref": "#/$defs/date"
         },
         "startTime": {
-          "type": "string",
-          "pattern": "^(?:[01]\\d|2[0-3]):[0-5]\\d$"
+          "$ref": "#/$defs/time"
         },
         "endTime": {
-          "type": "string",
-          "pattern": "^(?:[01]\\d|2[0-3]):[0-5]\\d$"
+          "$ref": "#/$defs/time"
         },
         "room": {
           "anyOf": [
@@ -226,28 +224,14 @@
           "description": "Optional distinct rooms exactly as published. Does not assign an individual student to a room."
         }
       },
-      "oneOf": [
-        {
-          "properties": {
-            "startTime": {
-              "type": "null"
-            },
-            "endTime": {
-              "type": "null"
-            }
-          }
-        },
-        {
-          "properties": {
-            "startTime": {
-              "$ref": "#/$defs/time"
-            },
-            "endTime": {
-              "$ref": "#/$defs/time"
-            }
-          }
-        }
-      ],
+      "dependentRequired": {
+        "startTime": [
+          "endTime"
+        ],
+        "endTime": [
+          "startTime"
+        ]
+      },
       "allOf": [
         {
           "anyOf": [

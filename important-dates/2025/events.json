@@ -2,16 +2,139 @@
   "schemaVersion": 1,
   "academicYear": 2025,
   "timezone": "Asia/Tokyo",
-  "source": [{"id":"official-calendar-2025","title":"Science Tokyo 2025年度 授業日程","url":"https://www.titech.ac.jp/student/students/life/schedules/2025"}],
+  "source": [
+    {
+      "id": "official-calendar-2025",
+      "title": "Science Tokyo 2025年度 授業日程",
+      "url": "https://www.titech.ac.jp/student/students/life/schedules/2025"
+    }
+  ],
   "entries": [
-    {"id":"2025-04-02-ceremony-entrance","startDate":"2025-04-02","endDate":"2025-04-02","label":{"ja":"入学式"},"category":"ceremony","sourceIds":["official-calendar-2025"]},
-    {"id":"2025-04-03-academic-orientation","startDate":"2025-04-03","endDate":"2025-04-03","label":{"ja":"新入生総合オリエンテーション（学士課程）"},"category":"academic","sourceIds":["official-calendar-2025"]},
-    {"id":"2025-09-22-ceremony-graduation","startDate":"2025-09-22","endDate":"2025-09-22","label":{"ja":"学位記授与式"},"category":"ceremony","sourceIds":["official-calendar-2025"]},
-    {"id":"2025-10-22-ceremony-entrance","startDate":"2025-10-22","endDate":"2025-10-22","label":{"ja":"入学式"},"category":"ceremony","sourceIds":["official-calendar-2025"]},
-    {"id":"2026-03-26-ceremony-graduation","startDate":"2026-03-26","endDate":"2026-03-26","label":{"ja":"学位記授与式"},"category":"ceremony","sourceIds":["official-calendar-2025"]},
-    {"id":"2025-05-24-campus-homecoming","startDate":"2025-05-24","endDate":"2025-05-24","label":{"ja":"ホームカミングデイ in 大岡山"},"category":"other","sourceIds":["official-calendar-2025"]},
-    {"id":"2025-11-02-campus-festival","startDate":"2025-11-02","endDate":"2025-11-03","label":{"ja":"大学祭"},"category":"campus-festival","sourceIds":["official-calendar-2025"]},
-    {"id":"2026-01-17-common-test","startDate":"2026-01-17","endDate":"2026-01-18","label":{"ja":"大学入学共通テスト"},"category":"academic","sourceIds":["official-calendar-2025"]},
-    {"id":"2026-02-25-general-selection","startDate":"2026-02-25","endDate":"2026-02-26","label":{"ja":"一般選抜「前期日程」"},"category":"academic","sourceIds":["official-calendar-2025"]}
+    {
+      "id": "2025-04-02-ceremony-entrance",
+      "startDate": "2025-04-02",
+      "endDate": "2025-04-02",
+      "label": {
+        "ja": "入学式",
+        "en": "Entrance Ceremony"
+      },
+      "category": "ceremony",
+      "sourceIds": [
+        "official-calendar-2025"
+      ],
+      "labelEnglishSource": "translation"
+    },
+    {
+      "id": "2025-04-03-academic-orientation",
+      "startDate": "2025-04-03",
+      "endDate": "2025-04-03",
+      "label": {
+        "ja": "新入生総合オリエンテーション（学士課程）",
+        "en": "New Student General Orientation (Bachelor's Degree Program)"
+      },
+      "category": "academic",
+      "sourceIds": [
+        "official-calendar-2025"
+      ],
+      "labelEnglishSource": "translation"
+    },
+    {
+      "id": "2025-09-22-ceremony-graduation",
+      "startDate": "2025-09-22",
+      "endDate": "2025-09-22",
+      "label": {
+        "ja": "学位記授与式",
+        "en": "Commencement Ceremony"
+      },
+      "category": "ceremony",
+      "sourceIds": [
+        "official-calendar-2025"
+      ],
+      "labelEnglishSource": "translation"
+    },
+    {
+      "id": "2025-10-22-ceremony-entrance",
+      "startDate": "2025-10-22",
+      "endDate": "2025-10-22",
+      "label": {
+        "ja": "入学式",
+        "en": "Entrance Ceremony"
+      },
+      "category": "ceremony",
+      "sourceIds": [
+        "official-calendar-2025"
+      ],
+      "labelEnglishSource": "translation"
+    },
+    {
+      "id": "2026-03-26-ceremony-graduation",
+      "startDate": "2026-03-26",
+      "endDate": "2026-03-26",
+      "label": {
+        "ja": "学位記授与式",
+        "en": "Commencement Ceremony"
+      },
+      "category": "ceremony",
+      "sourceIds": [
+        "official-calendar-2025"
+      ],
+      "labelEnglishSource": "translation"
+    },
+    {
+      "id": "2025-05-24-campus-homecoming",
+      "startDate": "2025-05-24",
+      "endDate": "2025-05-24",
+      "label": {
+        "ja": "ホームカミングデイ in 大岡山",
+        "en": "Homecoming Day in Ookayama"
+      },
+      "category": "other",
+      "sourceIds": [
+        "official-calendar-2025"
+      ],
+      "labelEnglishSource": "translation"
+    },
+    {
+      "id": "2025-11-02-campus-festival",
+      "startDate": "2025-11-02",
+      "endDate": "2025-11-03",
+      "label": {
+        "ja": "大学祭",
+        "en": "Campus Festival"
+      },
+      "category": "campus-festival",
+      "sourceIds": [
+        "official-calendar-2025"
+      ],
+      "labelEnglishSource": "translation"
+    },
+    {
+      "id": "2026-01-17-common-test",
+      "startDate": "2026-01-17",
+      "endDate": "2026-01-18",
+      "label": {
+        "ja": "大学入学共通テスト",
+        "en": "Common Test for University Admissions"
+      },
+      "category": "academic",
+      "sourceIds": [
+        "official-calendar-2025"
+      ],
+      "labelEnglishSource": "translation"
+    },
+    {
+      "id": "2026-02-25-general-selection",
+      "startDate": "2026-02-25",
+      "endDate": "2026-02-26",
+      "label": {
+        "ja": "一般選抜「前期日程」",
+        "en": "General Selection (First-Stage Schedule)"
+      },
+      "category": "academic",
+      "sourceIds": [
+        "official-calendar-2025"
+      ],
+      "labelEnglishSource": "translation"
+    }
   ]
 }
