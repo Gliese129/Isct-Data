@@ -25,13 +25,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-356"
       },
       "label": {
-        "ja": "中国語初級２ C07"
+        "ja": "中国語初級２ C07",
+        "en": "Chinese: Basic Course 2 C07"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -51,13 +50,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B101"
       },
       "label": {
-        "ja": "中国語初級２ C09"
+        "ja": "中国語初級２ C09",
+        "en": "Chinese: Basic Course 2 C09"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -77,13 +75,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-207"
       },
       "label": {
-        "ja": "中国語初級２ C10"
+        "ja": "中国語初級２ C10",
+        "en": "Chinese: Basic Course 2 C10"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -103,13 +100,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-205"
       },
       "label": {
-        "ja": "フランス語初級２ F04"
+        "ja": "フランス語初級２ F04",
+        "en": "French: Basic Course 2 F04"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -129,13 +125,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-143A"
       },
       "label": {
-        "ja": "フランス語初級２ F05"
+        "ja": "フランス語初級２ F05",
+        "en": "French: Basic Course 2 F05"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -155,13 +150,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B45"
       },
       "label": {
-        "ja": "ドイツ語初級２ D33"
+        "ja": "ドイツ語初級２ D33",
+        "en": "German: Basic Course 2 D33"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -181,13 +175,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B43"
       },
       "label": {
-        "ja": "イタリア語２"
+        "ja": "イタリア語２",
+        "en": "Italian 2"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -207,13 +200,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-201"
       },
       "label": {
-        "ja": "韓国語２ a"
+        "ja": "韓国語２ a",
+        "en": "Korean 2 a"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -233,13 +225,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-103"
       },
       "label": {
-        "ja": "韓国語２ b"
+        "ja": "韓国語２ b",
+        "en": "Korean 2 b"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -259,13 +250,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W8E-308"
       },
       "label": {
-        "ja": "ロシア語初級２ R04"
+        "ja": "ロシア語初級２ R04",
+        "en": "Russian: Basic Course 2 R04"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -285,13 +275,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S2-201"
       },
       "label": {
-        "ja": "スペイン語初級２ S32"
+        "ja": "スペイン語初級２ S32",
+        "en": "Spanish: Basic Course 2 S32"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -311,13 +300,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S3-215"
       },
       "label": {
-        "ja": "スペイン語初級２ S36"
+        "ja": "スペイン語初級２ S36",
+        "en": "Spanish: Basic Course 2 S36"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -337,13 +325,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-124"
       },
       "label": {
-        "ja": "英語第四 再1"
+        "ja": "英語第四 再1",
+        "en": "English 4 再1"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -363,13 +350,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-124"
       },
       "label": {
-        "ja": "英語第八 再1"
+        "ja": "英語第八 再1",
+        "en": "English 8 再1"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -389,13 +375,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-356"
       },
       "label": {
-        "ja": "中国語初級２ C12"
+        "ja": "中国語初級２ C12",
+        "en": "Chinese: Basic Course 2 C12"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -415,13 +400,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B101"
       },
       "label": {
-        "ja": "中国語初級２ C15"
+        "ja": "中国語初級２ C15",
+        "en": "Chinese: Basic Course 2 C15"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -441,13 +425,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-205"
       },
       "label": {
-        "ja": "フランス語初級２ F06"
+        "ja": "フランス語初級２ F06",
+        "en": "French: Basic Course 2 F06"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -467,13 +450,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-143A"
       },
       "label": {
-        "ja": "フランス語初級２ F07"
+        "ja": "フランス語初級２ F07",
+        "en": "French: Basic Course 2 F07"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -493,13 +475,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B45"
       },
       "label": {
-        "ja": "ドイツ語初級２ D43"
+        "ja": "ドイツ語初級２ D43",
+        "en": "German: Basic Course 2 D43"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -519,13 +500,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-201"
       },
       "label": {
-        "ja": "韓国語２ c"
+        "ja": "韓国語２ c",
+        "en": "Korean 2 c"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -545,13 +525,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W8E-306"
       },
       "label": {
-        "ja": "ロシア語初級２ R06"
+        "ja": "ロシア語初級２ R06",
+        "en": "Russian: Basic Course 2 R06"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -571,13 +550,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S2-201"
       },
       "label": {
-        "ja": "スペイン語初級２ S42"
+        "ja": "スペイン語初級２ S42",
+        "en": "Spanish: Basic Course 2 S42"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -597,13 +575,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S3-215"
       },
       "label": {
-        "ja": "スペイン語初級２ S46"
+        "ja": "スペイン語初級２ S46",
+        "en": "Spanish: Basic Course 2 S46"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -623,13 +600,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-157"
       },
       "label": {
-        "ja": "スペイン語初級２ S47"
+        "ja": "スペイン語初級２ S47",
+        "en": "Spanish: Basic Course 2 S47"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -649,13 +625,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-107"
       },
       "label": {
-        "ja": "線形空間論第二"
+        "ja": "線形空間論第二",
+        "en": "Advanced Linear Algebra II"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -675,13 +650,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-402"
       },
       "label": {
-        "ja": "英語第四 再2"
+        "ja": "英語第四 再2",
+        "en": "English 4 再2"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -701,13 +675,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-402"
       },
       "label": {
-        "ja": "英語第八 再2"
+        "ja": "英語第八 再2",
+        "en": "English 8 再2"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -727,13 +700,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-707"
       },
       "label": {
-        "ja": "ドイツ語会話（入門・基礎）２"
+        "ja": "ドイツ語会話（入門・基礎）２",
+        "en": "German Conversation: Basic Course 2"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -753,13 +725,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W8E-308"
       },
       "label": {
-        "ja": "古典ラテン語２"
+        "ja": "古典ラテン語２",
+        "en": "Classical Latin 2"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -779,13 +750,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-278"
       },
       "label": {
-        "ja": "力学基礎２ B"
+        "ja": "力学基礎２ B",
+        "en": "Fundamentals of Mechanics 2 B"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -805,13 +775,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-278"
       },
       "label": {
-        "ja": "力学基礎２ L"
+        "ja": "力学基礎２ L",
+        "en": "Fundamentals of Mechanics 2 L"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -831,13 +800,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W8E-308"
       },
       "label": {
-        "ja": "古典ギリシア語２"
+        "ja": "古典ギリシア語２",
+        "en": "Classical Greek 2"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -857,13 +825,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-201"
       },
       "label": {
-        "ja": "中国語会話（中級・応用）２"
+        "ja": "中国語会話（中級・応用）２",
+        "en": "Chinese Conversation: Advanced Course 2"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -883,13 +850,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-707"
       },
       "label": {
-        "ja": "ドイツ語会話（中級・応用）２"
+        "ja": "ドイツ語会話（中級・応用）２",
+        "en": "German Conversation: Advanced Course 2"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -909,13 +875,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-278"
       },
       "label": {
-        "ja": "力学基礎２ F"
+        "ja": "力学基礎２ F",
+        "en": "Fundamentals of Mechanics 2 F"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -935,13 +900,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-278"
       },
       "label": {
-        "ja": "力学基礎２ O"
+        "ja": "力学基礎２ O",
+        "en": "Fundamentals of Mechanics 2 O"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -961,13 +925,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-103"
       },
       "label": {
-        "ja": "教育課程編成の方法"
+        "ja": "教育課程編成の方法",
+        "en": "Curriculum Design and Management"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -987,13 +950,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-101"
       },
       "label": {
-        "ja": "化学計測学"
+        "ja": "化学計測学",
+        "en": "Quantitative Chemical Analysis"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1013,13 +975,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-374"
       },
       "label": {
-        "ja": "電磁気学第二"
+        "ja": "電磁気学第二",
+        "en": "Electricity and Magnetism II"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1039,13 +1000,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S4-201"
       },
       "label": {
-        "ja": "統計的信号処理"
+        "ja": "統計的信号処理",
+        "en": "Statistical Signal Processing"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1065,13 +1025,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W8E-101"
       },
       "label": {
-        "ja": "経営・経済のための統計"
+        "ja": "経営・経済のための統計",
+        "en": "Statistics for Industrial Engineering and Economics"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1091,13 +1050,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-324"
       },
       "label": {
-        "ja": "無機化学基礎 M"
+        "ja": "無機化学基礎 M",
+        "en": "Basic Inorganic Chemistry M"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1117,13 +1075,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-401"
       },
       "label": {
-        "ja": "無機化学基礎 N"
+        "ja": "無機化学基礎 N",
+        "en": "Basic Inorganic Chemistry N"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1143,13 +1100,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-402"
       },
       "label": {
-        "ja": "無機化学基礎 P"
+        "ja": "無機化学基礎 P",
+        "en": "Basic Inorganic Chemistry P"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1169,13 +1125,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B07"
       },
       "label": {
-        "ja": "力学基礎２ I"
+        "ja": "力学基礎２ I",
+        "en": "Fundamentals of Mechanics 2 I"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1195,13 +1150,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-124"
       },
       "label": {
-        "ja": "力学基礎２ J"
+        "ja": "力学基礎２ J",
+        "en": "Fundamentals of Mechanics 2 J"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1221,13 +1175,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-401"
       },
       "label": {
-        "ja": "力学基礎２ K"
+        "ja": "力学基礎２ K",
+        "en": "Fundamentals of Mechanics 2 K"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1247,13 +1200,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-110"
       },
       "label": {
-        "ja": "力学基礎２ English Class"
+        "ja": "力学基礎２ English Class",
+        "en": "Fundamentals of Mechanics 2 English Class"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1273,13 +1225,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-278"
       },
       "label": {
-        "ja": "医薬品化学"
+        "ja": "医薬品化学",
+        "en": "Pharmaceutical Chemistry"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1299,13 +1250,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S2-204"
       },
       "label": {
-        "ja": "電気学"
+        "ja": "電気学",
+        "en": "Fundamentals of Electrical Science and Engineering"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1325,13 +1275,12 @@
         1,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL1-401"
       },
       "label": {
-        "ja": "電気・電子工学基礎"
+        "ja": "電気・電子工学基礎",
+        "en": "Fundamentals of electrical and electronic engineering"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1351,13 +1300,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-301"
       },
       "label": {
-        "ja": "建築環境設備学（環境工学）"
+        "ja": "建築環境設備学（環境工学）",
+        "en": "Environmental Engineering"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1377,13 +1325,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W5-106"
       },
       "label": {
-        "ja": "建築構造力学第二"
+        "ja": "建築構造力学第二",
+        "en": "Structural Mechanics II"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1403,13 +1350,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-278"
       },
       "label": {
-        "ja": "物理化学２（化学平衡） A"
+        "ja": "物理化学２（化学平衡） A",
+        "en": "Physical Chemistry II (Chemical Equilibirum) A"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1429,13 +1375,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-278"
       },
       "label": {
-        "ja": "物理化学２（化学平衡） B"
+        "ja": "物理化学２（化学平衡） B",
+        "en": "Physical Chemistry II (Chemical Equilibirum) B"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1455,13 +1400,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B07"
       },
       "label": {
-        "ja": "人工知能"
+        "ja": "人工知能",
+        "en": "Artificial Intelligence"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1481,13 +1425,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W5-107"
       },
       "label": {
-        "ja": "水理学第一"
+        "ja": "水理学第一",
+        "en": "Hydraulics I"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1507,13 +1450,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-374"
       },
       "label": {
-        "ja": "半導体物性"
+        "ja": "半導体物性",
+        "en": "Semiconductor Physics"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1533,13 +1475,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "I3-107"
       },
       "label": {
-        "ja": "信号とシステム解析"
+        "ja": "信号とシステム解析",
+        "en": "Signal and System Analysis"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1559,13 +1500,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-707"
       },
       "label": {
-        "ja": "生命科学基礎第一２ K"
+        "ja": "生命科学基礎第一２ K",
+        "en": "Fundamental Life Science 1-2 K"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1585,13 +1525,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-201"
       },
       "label": {
-        "ja": "有機化学基礎 F"
+        "ja": "有機化学基礎 F",
+        "en": "Basic Organic Chemistry F"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1611,13 +1550,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-124"
       },
       "label": {
-        "ja": "有機化学基礎 G"
+        "ja": "有機化学基礎 G",
+        "en": "Basic Organic Chemistry G"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1637,13 +1575,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-401"
       },
       "label": {
-        "ja": "力学基礎２ M"
+        "ja": "力学基礎２ M",
+        "en": "Fundamentals of Mechanics 2 M"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1663,13 +1600,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W8E-101"
       },
       "label": {
-        "ja": "力学基礎２ N"
+        "ja": "力学基礎２ N",
+        "en": "Fundamentals of Mechanics 2 N"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1689,13 +1625,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-402"
       },
       "label": {
-        "ja": "力学基礎２ P"
+        "ja": "力学基礎２ P",
+        "en": "Fundamentals of Mechanics 2 P"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1715,13 +1650,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S7-202"
       },
       "label": {
-        "ja": "固体物性I（概論・半導体）"
+        "ja": "固体物性I（概論・半導体）",
+        "en": "Solid State Properties I (Introduction and Semiconductor"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1741,13 +1675,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S8-102"
       },
       "label": {
-        "ja": "有機材料合成化学B"
+        "ja": "有機材料合成化学B",
+        "en": "Organic Synthetic Chemistry B"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1767,13 +1700,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-324"
       },
       "label": {
-        "ja": "物理数学II（講義）"
+        "ja": "物理数学II（講義）",
+        "en": "Mathematical Methods in Physics II（Lecture)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1793,13 +1725,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-103"
       },
       "label": {
-        "ja": "熱エネルギー変換学"
+        "ja": "熱エネルギー変換学",
+        "en": "Thermal Energy Conversion"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1819,13 +1750,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-112"
       },
       "label": {
-        "ja": "操作論"
+        "ja": "操作論",
+        "en": "Unit operations"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1845,13 +1775,12 @@
         3,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-110"
       },
       "label": {
-        "ja": "代数学概論第二"
+        "ja": "代数学概論第二",
+        "en": "Introduction to Algebra II"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1871,13 +1800,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-155"
       },
       "label": {
-        "ja": "天然物化学"
+        "ja": "天然物化学",
+        "en": "Natural Product Chemistry"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1897,13 +1825,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W5-107"
       },
       "label": {
-        "ja": "土質力学第二"
+        "ja": "土質力学第二",
+        "en": "Soil Mechanics II"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1923,13 +1850,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-201"
       },
       "label": {
-        "ja": "プログラミング発展"
+        "ja": "プログラミング発展",
+        "en": "Chemical Reaction Dynamics"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1949,13 +1875,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-374"
       },
       "label": {
-        "ja": "化学反応動力学"
+        "ja": "化学反応動力学",
+        "en": "Chemical Reaction Dynamics"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -1975,13 +1900,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-401"
       },
       "label": {
-        "ja": "電気化学"
+        "ja": "電気化学",
+        "en": "Electrochemistry"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2001,13 +1925,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-201"
       },
       "label": {
-        "ja": "電磁気学III（講義）"
+        "ja": "電磁気学III（講義）",
+        "en": "Electromagnetism III（Lecture)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2027,13 +1950,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-326"
       },
       "label": {
-        "ja": "計測・信号処理基礎"
+        "ja": "計測・信号処理基礎",
+        "en": "Introduction to Measurement Engineering"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2053,13 +1975,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-103"
       },
       "label": {
-        "ja": "ロボットシステムと制御"
+        "ja": "ロボットシステムと制御",
+        "en": "Robotic System and Control"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2079,13 +2000,12 @@
         5,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-178"
       },
       "label": {
-        "ja": "工業数学発展"
+        "ja": "工業数学発展",
+        "en": "Advanced engineering mathematics"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2105,13 +2025,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W5-106"
       },
       "label": {
-        "ja": "コンクリート構造"
+        "ja": "コンクリート構造",
+        "en": "Structural Concrete"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2131,13 +2050,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-301"
       },
       "label": {
-        "ja": "細胞工学"
+        "ja": "細胞工学",
+        "en": "Cell Engineering"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2157,13 +2075,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S8-101"
       },
       "label": {
-        "ja": "金属学概論"
+        "ja": "金属学概論",
+        "en": "Introduction to Metallurgy"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2183,13 +2100,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-103"
       },
       "label": {
-        "ja": "電磁気学III（演習） B"
+        "ja": "電磁気学III（演習） B",
+        "en": "Electromagnetism III（Exercise) B"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2209,13 +2125,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S4-201"
       },
       "label": {
-        "ja": "電気回路基礎"
+        "ja": "電気回路基礎",
+        "en": "Basic Theory of Electric Circuit"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2235,13 +2150,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-124"
       },
       "label": {
-        "ja": "地球の化学"
+        "ja": "地球の化学",
+        "en": "Introduction of Geochemistry"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2261,13 +2175,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-157"
       },
       "label": {
-        "ja": "英語第二 4"
+        "ja": "英語第二 4",
+        "en": "English 2 4"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2287,13 +2200,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-201"
       },
       "label": {
-        "ja": "英語第二 5"
+        "ja": "英語第二 5",
+        "en": "English 2 5"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2313,13 +2225,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-356"
       },
       "label": {
-        "ja": "歴史学Ｂ"
+        "ja": "歴史学Ｂ",
+        "en": "History B"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2339,13 +2250,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-101"
       },
       "label": {
-        "ja": "国際政治学B"
+        "ja": "国際政治学B",
+        "en": "International Politic B"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2365,13 +2275,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-178"
       },
       "label": {
-        "ja": "微分積分学第一・演習 G(41-47)"
+        "ja": "微分積分学第一・演習 G(41-47)",
+        "en": "Calculus I / Recitation G(41-47)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2391,13 +2300,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-301"
       },
       "label": {
-        "ja": "微分積分学第一・演習 H(48-53)"
+        "ja": "微分積分学第一・演習 H(48-53)",
+        "en": "Calculus I / Recitation H(48-53)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2417,13 +2325,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S2-203"
       },
       "label": {
-        "ja": "微分積分学第一・演習 I(54-60)"
+        "ja": "微分積分学第一・演習 I(54-60)",
+        "en": "Calculus I / Recitation I(54-60)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2443,13 +2350,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B07"
       },
       "label": {
-        "ja": "相対論的量子力学"
+        "ja": "相対論的量子力学",
+        "en": "Relativistic Quantum Mechanics"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2469,13 +2375,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-326"
       },
       "label": {
-        "ja": "無機化学第一"
+        "ja": "無機化学第一",
+        "en": "Inorganic Chemistry I"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2495,13 +2400,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W5-106"
       },
       "label": {
-        "ja": "構造力学第一"
+        "ja": "構造力学第一",
+        "en": "Structural Mechanics I"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2521,13 +2425,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-157"
       },
       "label": {
-        "ja": "英語第六 11-RW"
+        "ja": "英語第六 11-RW",
+        "en": "English 6 11-RW"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2547,13 +2450,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-178"
       },
       "label": {
-        "ja": "微分積分学第一・演習 A(1-7)"
+        "ja": "微分積分学第一・演習 A(1-7)",
+        "en": "Calculus I / Recitation A(1-7)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2573,13 +2475,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-401"
       },
       "label": {
-        "ja": "微分積分学第一・演習 B(8-13)"
+        "ja": "微分積分学第一・演習 B(8-13)",
+        "en": "Calculus I / Recitation B(8-13)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2599,13 +2500,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B07"
       },
       "label": {
-        "ja": "微分積分学第一・演習 C(14-20)"
+        "ja": "微分積分学第一・演習 C(14-20)",
+        "en": "Calculus I / Recitation C(14-20)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2625,13 +2525,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W8E-101"
       },
       "label": {
-        "ja": "オートマトンと数理言語論"
+        "ja": "オートマトンと数理言語論",
+        "en": "Theory of Automata and Languages"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2651,13 +2550,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B104"
       },
       "label": {
-        "ja": "解析学概論第二"
+        "ja": "解析学概論第二",
+        "en": "Introduction to Analysis II"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2677,13 +2575,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-325"
       },
       "label": {
-        "ja": "線形システム論 E"
+        "ja": "線形システム論 E",
+        "en": "Theory of Linear System E"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2703,13 +2600,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-323"
       },
       "label": {
-        "ja": "線形システム論 J"
+        "ja": "線形システム論 J",
+        "en": "Theory of Linear System J"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2729,13 +2625,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-402"
       },
       "label": {
-        "ja": "反応工学"
+        "ja": "反応工学",
+        "en": "Reaction Engineering"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2755,13 +2650,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-101"
       },
       "label": {
-        "ja": "結晶化学"
+        "ja": "結晶化学",
+        "en": "Crystal Chemistry"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2781,13 +2675,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S2-204"
       },
       "label": {
-        "ja": "電気回路第一"
+        "ja": "電気回路第一",
+        "en": "Electric Circuits I"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2807,13 +2700,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-157"
       },
       "label": {
-        "ja": "英語第六 21-RW"
+        "ja": "英語第六 21-RW",
+        "en": "English 6 21-RW"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2833,13 +2725,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-326"
       },
       "label": {
-        "ja": "歴史学Ａ"
+        "ja": "歴史学Ａ",
+        "en": "History A"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2859,13 +2750,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-178,M-155"
       },
       "label": {
-        "ja": "統計学Ａ"
+        "ja": "統計学Ａ",
+        "en": "Statistics A"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2885,13 +2775,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-201"
       },
       "label": {
-        "ja": "進化生物学"
+        "ja": "進化生物学",
+        "en": "Evolutionary Biology"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2911,13 +2800,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S8-102"
       },
       "label": {
-        "ja": "有機化学(機能)B"
+        "ja": "有機化学(機能)B",
+        "en": "Organic Chemistry (Functions) B"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2937,13 +2825,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-325"
       },
       "label": {
-        "ja": "応用微分方程式論"
+        "ja": "応用微分方程式論",
+        "en": "Applied Theory on Differential Equations"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2963,13 +2850,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-124"
       },
       "label": {
-        "ja": "統計力学II（講義）"
+        "ja": "統計力学II（講義）",
+        "en": "Statistical Mechanics II（Lecture)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -2989,13 +2875,12 @@
         5,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-374"
       },
       "label": {
-        "ja": "情報数理基礎"
+        "ja": "情報数理基礎",
+        "en": "Fundamentals of information and mathematical sciences"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3015,13 +2900,12 @@
         5,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B45"
       },
       "label": {
-        "ja": "複素解析第二"
+        "ja": "複素解析第二",
+        "en": "Complex Analysis II"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3041,13 +2925,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W8E-101"
       },
       "label": {
-        "ja": "図学・図形デザイン第一 A"
+        "ja": "図学・図形デザイン第一 A",
+        "en": "Descriptive Geometry for Space Design1 A"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3067,13 +2950,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-401"
       },
       "label": {
-        "ja": "環境生物工学"
+        "ja": "環境生物工学",
+        "en": "Environmental Bioengineering"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3093,13 +2975,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S8-102"
       },
       "label": {
-        "ja": "固体物理学(格子系)"
+        "ja": "固体物理学(格子系)",
+        "en": "Solid State Physics (Lattice)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3119,13 +3000,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-124"
       },
       "label": {
-        "ja": "確率論基礎"
+        "ja": "確率論基礎",
+        "en": "Fundamentals of Probability"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3145,13 +3025,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W5-106"
       },
       "label": {
-        "ja": "土質力学第一"
+        "ja": "土質力学第一",
+        "en": "Soil Mechanics I"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3171,13 +3050,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B107"
       },
       "label": {
-        "ja": "中国語初級２ C01"
+        "ja": "中国語初級２ C01",
+        "en": "Chinese: Basic Course 2 C01"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3197,13 +3075,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-305"
       },
       "label": {
-        "ja": "中国語初級２ C02"
+        "ja": "中国語初級２ C02",
+        "en": "Chinese: Basic Course 2 C02"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3223,13 +3100,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-155"
       },
       "label": {
-        "ja": "中国語初級２ C03"
+        "ja": "中国語初級２ C03",
+        "en": "Chinese: Basic Course 2 C03"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3249,13 +3125,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B45"
       },
       "label": {
-        "ja": "中国語初級２ C04"
+        "ja": "中国語初級２ C04",
+        "en": "Chinese: Basic Course 2 C04"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3275,13 +3150,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-157"
       },
       "label": {
-        "ja": "フランス語初級２ F01"
+        "ja": "フランス語初級２ F01",
+        "en": "French: Basic Course 2 F01"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3301,13 +3175,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B101"
       },
       "label": {
-        "ja": "フランス語初級２ F02"
+        "ja": "フランス語初級２ F02",
+        "en": "French: Basic Course 2 F02"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3327,13 +3200,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W8E-306"
       },
       "label": {
-        "ja": "ロシア語初級２ R01"
+        "ja": "ロシア語初級２ R01",
+        "en": "Russian: Basic Course 2 R01"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3353,13 +3225,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-707"
       },
       "label": {
-        "ja": "スペイン語初級２ S11"
+        "ja": "スペイン語初級２ S11",
+        "en": "Spanish: Basic Course 2 S11"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3379,13 +3250,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S3-215"
       },
       "label": {
-        "ja": "スペイン語初級２ S12"
+        "ja": "スペイン語初級２ S12",
+        "en": "Spanish: Basic Course 2 S12"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3405,13 +3275,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-322"
       },
       "label": {
-        "ja": "スペイン語初級２ S13"
+        "ja": "スペイン語初級２ S13",
+        "en": "Spanish: Basic Course 2 S13"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3431,13 +3300,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-323"
       },
       "label": {
-        "ja": "スペイン語初級２ S14"
+        "ja": "スペイン語初級２ S14",
+        "en": "Spanish: Basic Course 2 S15"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3457,13 +3325,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-201"
       },
       "label": {
-        "ja": "スペイン語初級２ S15"
+        "ja": "スペイン語初級２ S15",
+        "en": "Spanish: Basic Course 2 S15"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3483,13 +3350,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-278"
       },
       "label": {
-        "ja": "有機化学基礎 A"
+        "ja": "有機化学基礎 A",
+        "en": "Basic Organic Chemistry A"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3509,13 +3375,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-401"
       },
       "label": {
-        "ja": "有機化学基礎 C"
+        "ja": "有機化学基礎 C",
+        "en": "Basic Organic Chemistry C"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3535,13 +3400,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-110"
       },
       "label": {
-        "ja": "有機化学基礎 English Class"
+        "ja": "有機化学基礎 English Class",
+        "en": "Basic Organic Chemistry English Class"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3561,13 +3425,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-178"
       },
       "label": {
-        "ja": "微分積分学第一・演習 J(61-67)"
+        "ja": "微分積分学第一・演習 J(61-67)",
+        "en": "Calculus I / Recitation J(61-67)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3587,13 +3450,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-374"
       },
       "label": {
-        "ja": "微分積分学第一・演習 K(68-73)"
+        "ja": "微分積分学第一・演習 K(68-73)",
+        "en": "Calculus I / Recitation K(68-73)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3613,13 +3475,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL1-401"
       },
       "label": {
-        "ja": "微分積分学第一・演習 L(74-80)"
+        "ja": "微分積分学第一・演習 L(74-80)",
+        "en": "Calculus I / Recitation L(74-80)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3639,13 +3500,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B07"
       },
       "label": {
-        "ja": "力学基礎２ A"
+        "ja": "力学基礎２ A",
+        "en": "Fundamentals of Mechanics 2 A"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3665,13 +3525,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-201"
       },
       "label": {
-        "ja": "力学基礎２ C"
+        "ja": "力学基礎２ C",
+        "en": "Fundamentals of Mechanics 2 C"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3691,13 +3550,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-124"
       },
       "label": {
-        "ja": "力学基礎２ D"
+        "ja": "力学基礎２ D",
+        "en": "Fundamentals of Mechanics 2 D"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3717,13 +3575,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S3-207"
       },
       "label": {
-        "ja": "実用材料の冶金学基礎"
+        "ja": "実用材料の冶金学基礎",
+        "en": "Introduction to metallurgy of engineering materials"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3743,13 +3600,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-325"
       },
       "label": {
-        "ja": "化学数学第二"
+        "ja": "化学数学第二",
+        "en": "Mathematics for Chemistry II"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3769,13 +3625,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-110"
       },
       "label": {
-        "ja": "物性化学"
+        "ja": "物性化学",
+        "en": "Solid State Chemistry"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3795,13 +3650,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W5-106"
       },
       "label": {
-        "ja": "構造力学第二"
+        "ja": "構造力学第二",
+        "en": "Structural Mechanics II"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3821,13 +3675,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-305"
       },
       "label": {
-        "ja": "中国語初級２ C05"
+        "ja": "中国語初級２ C05",
+        "en": "Chinese: Basic Course 2 C05"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3847,13 +3700,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-156"
       },
       "label": {
-        "ja": "フランス語初級２ F03"
+        "ja": "フランス語初級２ F03",
+        "en": "French: Basic Course 2 F03"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3873,13 +3725,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S3-206"
       },
       "label": {
-        "ja": "スペイン語初級２ S21"
+        "ja": "スペイン語初級２ S21",
+        "en": "Spanish: Basic Course 2 S22"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3899,13 +3750,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-707"
       },
       "label": {
-        "ja": "スペイン語初級２ S22"
+        "ja": "スペイン語初級２ S22",
+        "en": "Spanish: Basic Course 2 S22"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3925,13 +3775,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-124"
       },
       "label": {
-        "ja": "無機化学基礎 J"
+        "ja": "無機化学基礎 J",
+        "en": "Basic Inorganic Chemistry J"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3951,13 +3800,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B07"
       },
       "label": {
-        "ja": "無機化学基礎 K"
+        "ja": "無機化学基礎 K",
+        "en": "Basic Inorganic Chemistry K"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -3977,13 +3825,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S2-204"
       },
       "label": {
-        "ja": "無機化学基礎 L"
+        "ja": "無機化学基礎 L",
+        "en": "Basic Inorganic Chemistry L"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4003,13 +3850,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S2-203"
       },
       "label": {
-        "ja": "微分積分学第一・演習 D(21-27)"
+        "ja": "微分積分学第一・演習 D(21-27)",
+        "en": "Calculus I / Recitation D(21-27)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4029,13 +3875,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-374"
       },
       "label": {
-        "ja": "微分積分学第一・演習 E(28-33)"
+        "ja": "微分積分学第一・演習 E(28-33)",
+        "en": "Calculus I / Recitation E(28-33)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4055,13 +3900,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL1-401"
       },
       "label": {
-        "ja": "微分積分学第一・演習 F(34-40)"
+        "ja": "微分積分学第一・演習 F(34-40)",
+        "en": "Calculus I / Recitation F(34-40)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4081,13 +3925,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-101"
       },
       "label": {
-        "ja": "微分積分学第一・演習 U"
+        "ja": "微分積分学第一・演習 U",
+        "en": "Calculus I / Recitation U"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4107,13 +3950,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-401"
       },
       "label": {
-        "ja": "力学基礎２ E"
+        "ja": "力学基礎２ E",
+        "en": "Fundamentals of Mechanics 2 E"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4133,13 +3975,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W8E-101"
       },
       "label": {
-        "ja": "力学基礎２ G"
+        "ja": "力学基礎２ G",
+        "en": "Fundamentals of Mechanics 2 G"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4159,13 +4000,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-201"
       },
       "label": {
-        "ja": "力学基礎２ H"
+        "ja": "力学基礎２ H",
+        "en": "Fundamentals of Mechanics 2 H"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4185,13 +4025,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-278"
       },
       "label": {
-        "ja": "有機化学第二(アルコール，アルケン)"
+        "ja": "有機化学第二(アルコール，アルケン)",
+        "en": "Organic Chemistry II (alcohols and alkenes)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4211,13 +4050,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B45"
       },
       "label": {
-        "ja": "光合成科学"
+        "ja": "光合成科学",
+        "en": "Photosynthesis and photobiology"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4237,13 +4075,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-101"
       },
       "label": {
-        "ja": "応用微分積分"
+        "ja": "応用微分積分",
+        "en": "Applied Calculus"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4263,13 +4100,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-103"
       },
       "label": {
-        "ja": "数理論理学"
+        "ja": "数理論理学",
+        "en": "Mathematical Logic"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4289,13 +4125,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B104"
       },
       "label": {
-        "ja": "位相空間論第二"
+        "ja": "位相空間論第二",
+        "en": "Introduction to Topology II"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4315,13 +4150,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-178"
       },
       "label": {
-        "ja": "応用解析入門第二"
+        "ja": "応用解析入門第二",
+        "en": "Introduction to Applied Mathematical Methods II"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4341,13 +4175,12 @@
         3,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B43"
       },
       "label": {
-        "ja": "実解析第二"
+        "ja": "実解析第二",
+        "en": "Real Analysis II"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4367,13 +4200,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S2-203"
       },
       "label": {
-        "ja": "計算アルゴリズムとプログラミング"
+        "ja": "計算アルゴリズムとプログラミング",
+        "en": "Computation Algorithms and Programming"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4393,13 +4225,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-501"
       },
       "label": {
-        "ja": "生物化学工学"
+        "ja": "生物化学工学",
+        "en": "Biochemical Engineering"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4419,13 +4250,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "I1-256 S2-204"
       },
       "label": {
-        "ja": "宇宙システム工学"
+        "ja": "宇宙システム工学",
+        "en": "Thermodynamics (Mechanical Engineering)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4445,13 +4275,12 @@
         5,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-374"
       },
       "label": {
-        "ja": "熱力学（機械）"
+        "ja": "熱力学（機械）",
+        "en": "Thermodynamics (Mechanical Engineering)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4471,13 +4300,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-501"
       },
       "label": {
-        "ja": "材料力学概論B"
+        "ja": "材料力学概論B",
+        "en": "Fundamentals of Mechanics of Materials B"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4497,13 +4325,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W3-707"
       },
       "label": {
-        "ja": "固体化学"
+        "ja": "固体化学",
+        "en": "Chemistry of Solids"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4523,13 +4350,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-278"
       },
       "label": {
-        "ja": "分子生物学第一"
+        "ja": "分子生物学第一",
+        "en": "Molecular Biology I"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4549,13 +4375,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S3-206"
       },
       "label": {
-        "ja": "材料計量化学"
+        "ja": "材料計量化学",
+        "en": "Material Chemometrics"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4575,13 +4400,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-323"
       },
       "label": {
-        "ja": "マルコフ解析"
+        "ja": "マルコフ解析",
+        "en": "Markov Analysis"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4601,13 +4425,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-103"
       },
       "label": {
-        "ja": "微分方程式概論第二"
+        "ja": "微分方程式概論第二",
+        "en": "Differential Equations II"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4627,13 +4450,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-325,GSIC PC Room"
       },
       "label": {
-        "ja": "偏微分方程式と物理現象 E"
+        "ja": "偏微分方程式と物理現象 E",
+        "en": "Partial Differential Equations for Science and Engineering E"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4653,13 +4475,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-326,GSIC PC Room"
       },
       "label": {
-        "ja": "偏微分方程式と物理現象 J"
+        "ja": "偏微分方程式と物理現象 J",
+        "en": "Partial Differential Equations for Science and Engineering J"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4679,13 +4500,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-325"
       },
       "label": {
-        "ja": "スペイン語初級２ S33"
+        "ja": "スペイン語初級２ S33",
+        "en": "Spanish: Basic Course 2 S33"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4705,13 +4525,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-323"
       },
       "label": {
-        "ja": "スペイン語初級２ S34"
+        "ja": "スペイン語初級２ S34",
+        "en": "Spanish: Basic Course 2 S34"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4731,13 +4550,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-401"
       },
       "label": {
-        "ja": "無機化学基礎 I"
+        "ja": "無機化学基礎 I",
+        "en": "Basic Inorganic Chemistry I"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4757,13 +4575,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-401"
       },
       "label": {
-        "ja": "無機化学基礎 O"
+        "ja": "無機化学基礎 O",
+        "en": "Basic Inorganic Chemistry O"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4783,13 +4600,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W5-107"
       },
       "label": {
-        "ja": "建築仕上材料構法"
+        "ja": "建築仕上材料構法",
+        "en": "Building Materials and Finishing"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4809,13 +4625,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S4-201"
       },
       "label": {
-        "ja": "導波路工学および電波法"
+        "ja": "導波路工学および電波法",
+        "en": "Waveguide Engineering and the Radio Law"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4835,13 +4650,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-325"
       },
       "label": {
-        "ja": "スペイン語初級２ S43"
+        "ja": "スペイン語初級２ S43",
+        "en": "Spanish: Basic Course 2 S43"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4861,13 +4675,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-327"
       },
       "label": {
-        "ja": "スペイン語初級２ S44"
+        "ja": "スペイン語初級２ S44",
+        "en": "Spanish: Basic Course 2 S44"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4887,13 +4700,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-401"
       },
       "label": {
-        "ja": "有機化学基礎 D"
+        "ja": "有機化学基礎 D",
+        "en": "Basic Organic Chemistry D"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4913,13 +4725,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-401"
       },
       "label": {
-        "ja": "有機化学基礎 E"
+        "ja": "有機化学基礎 E",
+        "en": "Basic Organic Chemistry E"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4939,13 +4750,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S2-204"
       },
       "label": {
-        "ja": "有機化学基礎 H"
+        "ja": "有機化学基礎 H",
+        "en": "Basic Organic Chemistry H"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4965,13 +4775,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-326"
       },
       "label": {
-        "ja": "幾何学第二"
+        "ja": "幾何学第二",
+        "en": "追加 Geometry II Addition"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -4991,13 +4800,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-110"
       },
       "label": {
-        "ja": "分子構造学"
+        "ja": "分子構造学",
+        "en": "Molecular Structural Science"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5017,13 +4825,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S2-203"
       },
       "label": {
-        "ja": "光物性基礎とデバイス応用"
+        "ja": "光物性基礎とデバイス応用",
+        "en": "Optical physics of semiconductors and device applications"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5043,13 +4850,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-201"
       },
       "label": {
-        "ja": "有機化学基礎 B"
+        "ja": "有機化学基礎 B",
+        "en": "Basic Organic Chemistry B"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5069,13 +4875,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-178"
       },
       "label": {
-        "ja": "無機化学３（元素・化合物）"
+        "ja": "無機化学３（元素・化合物）",
+        "en": "追加 Inorganic Chemistry III (Elements・Compounds) Addition"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5095,13 +4900,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-401"
       },
       "label": {
-        "ja": "機械要素"
+        "ja": "機械要素",
+        "en": "Machine elements"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5121,13 +4925,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-101"
       },
       "label": {
-        "ja": "解析力学（講義）"
+        "ja": "解析力学（講義）",
+        "en": "Analytical Mechanics（Lecture)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5147,13 +4950,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S2-203"
       },
       "label": {
-        "ja": "データベース"
+        "ja": "データベース",
+        "en": "Databases"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5173,13 +4975,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S4-201"
       },
       "label": {
-        "ja": "線形回路"
+        "ja": "線形回路",
+        "en": "追加 Linear Circuits Addition"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5199,13 +5000,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-110"
       },
       "label": {
-        "ja": "コンピュータ数学"
+        "ja": "コンピュータ数学",
+        "en": "Concrete Mathematics"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5225,13 +5025,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S7-201"
       },
       "label": {
-        "ja": "非晶質体構造科学"
+        "ja": "非晶質体構造科学",
+        "en": "Structural Science of Non-crystalline Solids"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5251,13 +5050,12 @@
         5,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "大岡山西4号館実験室"
       },
       "label": {
-        "ja": "応用化学実験第一"
+        "ja": "応用化学実験第一",
+        "en": "Chemical Science and Engineering LaboratoryⅠ"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5277,13 +5075,12 @@
         5,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S2-204"
       },
       "label": {
-        "ja": "ロボットの力学と制御"
+        "ja": "ロボットの力学と制御",
+        "en": "Robot Dynamics and Control"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5303,13 +5100,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "I3-107"
       },
       "label": {
-        "ja": "地球化学B"
+        "ja": "地球化学B",
+        "en": "Geochemistry B"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5329,13 +5125,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S4-201"
       },
       "label": {
-        "ja": "通信理論（情報通信）"
+        "ja": "通信理論（情報通信）",
+        "en": "Communication Theory (ICT)"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5355,13 +5150,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-B07,M-178,M-124,M-"
       },
       "label": {
-        "ja": "生命科学基礎第一２ A"
+        "ja": "生命科学基礎第一２ A",
+        "en": "confirm the room you willtake Fundamental Life Science 1-2 C the exam."
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5381,11 +5175,10 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": null,
       "label": {
-        "ja": "生命科学基礎第一２ B"
+        "ja": "生命科学基礎第一２ B",
+        "en": "confirm the room you willtake Fundamental Life Science 1-2 C the exam."
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5405,11 +5198,10 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": null,
       "label": {
-        "ja": "生命科学基礎第一２ C"
+        "ja": "生命科学基礎第一２ C",
+        "en": "confirm the room you willtake Fundamental Life Science 1-2 C the exam."
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5429,11 +5221,10 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": null,
       "label": {
-        "ja": "生命科学基礎第一２ D"
+        "ja": "生命科学基礎第一２ D",
+        "en": "Fundamental Life Science 1-2 D"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5453,11 +5244,10 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": null,
       "label": {
-        "ja": "生命科学基礎第一２ E"
+        "ja": "生命科学基礎第一２ E",
+        "en": "Fundamental Life Science 1-2 E"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5477,11 +5267,10 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": null,
       "label": {
-        "ja": "生命科学基礎第一２ F"
+        "ja": "生命科学基礎第一２ F",
+        "en": "Fundamental Life Science 1-2 F"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5501,11 +5290,10 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": null,
       "label": {
-        "ja": "生命科学基礎第一２ G"
+        "ja": "生命科学基礎第一２ G",
+        "en": "Fundamental Life Science 1-2 G"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5525,11 +5313,10 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": null,
       "label": {
-        "ja": "生命科学基礎第一２ H"
+        "ja": "生命科学基礎第一２ H",
+        "en": "Fundamental Life Science 1-2 H"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5549,13 +5336,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-110"
       },
       "label": {
-        "ja": "統計力学II（演習） A"
+        "ja": "統計力学II（演習） A",
+        "en": "Statistical Mechanics II（Exercise) A"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"
@@ -5575,13 +5361,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-107"
       },
       "label": {
-        "ja": "統計力学II（演習） B"
+        "ja": "統計力学II（演習） B",
+        "en": "Statistical Mechanics II（Exercise) B"
       },
       "sourceIds": [
         "official-undergraduate-2026-2q"

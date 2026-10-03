@@ -25,13 +25,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W8E-308"
       },
       "label": {
-        "ja": "古典ラテン語６"
+        "ja": "古典ラテン語６",
+        "en": "Classical Latin 6"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -51,13 +50,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W8E-308"
       },
       "label": {
-        "ja": "古典ギリシア語６"
+        "ja": "古典ギリシア語６",
+        "en": "Classical Greek 6"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -77,13 +75,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "G3-202"
       },
       "label": {
-        "ja": "感性計測概論"
+        "ja": "感性計測概論",
+        "en": "Basic Behaviormetrics: Theory and Methods"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -103,13 +100,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S8-501"
       },
       "label": {
-        "ja": "移動速度論－荷電粒子の流れ－"
+        "ja": "移動速度論－荷電粒子の流れ－",
+        "en": "Transport Phenomena at High Temperature - Flow of charged particles in solid -"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -129,13 +125,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S4-201"
       },
       "label": {
-        "ja": "反応プロセス工学特論"
+        "ja": "反応プロセス工学特論",
+        "en": "Advanced Reaction Process Engineering"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -155,13 +150,12 @@
         5,
         6
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W8E-101"
       },
       "label": {
-        "ja": "光起電力の基礎"
+        "ja": "光起電力の基礎",
+        "en": "Introduction to Photovoltaics"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -181,13 +175,12 @@
         5,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S2-203"
       },
       "label": {
-        "ja": "原子炉理論第二"
+        "ja": "原子炉理論第二",
+        "en": "Nuclear Reactor Theory II"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -207,13 +200,12 @@
         7,
         8
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S8-623"
       },
       "label": {
-        "ja": "電極触媒特論"
+        "ja": "電極触媒特論",
+        "en": "Catalysis and Electrocatalysis"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -233,13 +225,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W2-401"
       },
       "label": {
-        "ja": "エネルギー基礎学理第二 大岡山"
+        "ja": "エネルギー基礎学理第二 大岡山",
+        "en": "Interdisciplinary scientific principles of energy 2 大 岡山"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -259,13 +250,12 @@
         1,
         2
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "G1-109"
       },
       "label": {
-        "ja": "エネルギー基礎学理第二 すずかけ"
+        "ja": "エネルギー基礎学理第二 すずかけ",
+        "en": "Interdisciplinary scientific principles of energy 2 す ずかけ"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -285,13 +275,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "W9-324"
       },
       "label": {
-        "ja": "先端機械学習"
+        "ja": "先端機械学習",
+        "en": "Advanced Machine Learning"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -311,13 +300,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "M-356"
       },
       "label": {
-        "ja": "生体高分子工学特論"
+        "ja": "生体高分子工学特論",
+        "en": "Advanced Biopolymer Engineering"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -337,13 +325,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "WL2-301,WL2-401"
       },
       "label": {
-        "ja": "エネルギーデバイス論第二 大岡山"
+        "ja": "エネルギーデバイス論第二 大岡山",
+        "en": "Interdisciplinary principles of energy devices 2 大岡 山"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -363,13 +350,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "J2-203"
       },
       "label": {
-        "ja": "エネルギーデバイス論第二 すずかけ"
+        "ja": "エネルギーデバイス論第二 すずかけ",
+        "en": "Interdisciplinary principles of energy devices 2 すず かけ"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -389,13 +375,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "S3-215"
       },
       "label": {
-        "ja": "無線信号処理"
+        "ja": "無線信号処理",
+        "en": "Wireless Signal Processing"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
@@ -415,13 +400,12 @@
         3,
         4
       ],
-      "startTime": null,
-      "endTime": null,
       "room": {
         "ja": "G2-202"
       },
       "label": {
-        "ja": "光と物質基礎論 IIb"
+        "ja": "光と物質基礎論 IIb",
+        "en": "Fundamentals of Light and Matter IIb"
       },
       "sourceIds": [
         "official-graduate-2026-2q"
