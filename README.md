@@ -26,3 +26,17 @@
 
 入学案内の付表・標準履修例からコースコードを抽出し、2025/2026 の全学系ファイルへ収録しています。コード差集で他系科目・共通科目の参照が混在する箇所は `scripts/review_course_coverage.py` の出力を人手確認中です。2025化学系はPDF固有のASCIIフォント符号を復号済み、2025融合理工学系は公式OCRとページ画像を照合済みです。空配列は「推薦科目なし」を意味しません。
 2025化学系は47コード、2025融合理工学系はOCR確認した公式付表行を収録済みです。PDF変換不能・文字化け・画像表は、公式PNG/OCRを照合してから登録します。空配列は「推薦科目なし」を意味しません。
+
+## Workflow review CLI
+
+`scripts/review_course_coverage.py` requires Python 3.10+ and the downloaded official guide text. It performs review checks without changing data or downloading sources. Prepare UTF-8 text with `pdftotext -layout` as `SOURCE_DIR/YEAR/NN.txt`; `NN` is resolved from each department's actual `guidePdf` filename. Source acquisition and any Japanese OCR remain the agent's responsibility.
+
+```sh
+python3 scripts/review_course_coverage.py \
+  --data-root . --guides-dir "$RUNNER_TEMP/official-guides" \
+  --year 2025 --year 2026 --format json > coverage-review.json
+```
+
+For the verified broken Latin mappings in the original 2025 chemistry and transdisciplinary PDFs, add `--shift29 2025:chemistry --shift29 2025:transdisciplinary`. This repair applies only to the explicitly selected sources and preserves layout whitespace. Do not apply it to already decoded or OCR text. Filter a specific review with repeatable `--department ID` arguments.
+
+Exit codes: **0** = no findings, **1** = course-code differences or suspicious titles require agent review, **2** = missing/invalid input. JSON output includes source paths, extraction strategy, missing/extra codes, title findings and input errors. Differences include equivalence and cross-department references; the agent must inspect the official table columns before adding a record. A status of 0 is not proof of complete semantic extraction or official English coverage.
