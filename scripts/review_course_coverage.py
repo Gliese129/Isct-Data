@@ -9,9 +9,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).parents[1]
 GUIDES = Path('/tmp/isct-guides')
-DEPS = ['math','physics','chemistry','eps','mech','sc','ee','ict','ie','mat','chem-eng','mcs','cs','life','arch','civil','transdisciplinary']
 for year in ('2025','2026'):
-    for n, dep in enumerate(DEPS, 1):
+    guide_data = json.loads((ROOT/'departments'/f'{year}.json').read_text())
+    for obj in guide_data['departments']:
+        dep = obj['id']
+        match = re.search(r'/([0-9]{2})-([0-9]{2})\.pdf$', obj.get('guidePdf',''))
+        if not match: continue
+        n = int(match.group(2))
         text = GUIDES/year/f'{n:02d}.txt'
         data = ROOT/'departments'/f'{year}.json'
         if not text.exists() or not data.exists(): continue

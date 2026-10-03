@@ -18266,23 +18266,1266 @@
           "category": {
             "ja": "融合理工学系"
           },
+          "level": 200,
+          "code": "TSE.A201",
+          "title": {
+            "ja": "材料・物性工学基礎"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.A202",
+          "title": {
+            "ja": "固体・構造力学基礎"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.A203",
+          "title": {
+            "ja": "電気・磁気工学基礎"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.A204",
+          "title": {
+            "ja": "熱力学基礎"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.A205",
+          "title": {
+            "ja": "流体工学基礎"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.A206",
+          "title": {
+            "ja": "生物工学基礎"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.A232",
+          "title": {
+            "ja": "工学計測基礎第一"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.A233",
+          "title": {
+            "ja": "工学計測基礎第二"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.C201",
+          "title": {
+            "ja": "融合理工学基礎"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 1,
+            "lab": 0
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.C202",
+          "title": {
+            "ja": "システムデザインプロジェクト"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 1
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.C203",
+          "title": {
+            "ja": "融合デザインプロジェクト"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0.5,
+            "exercise": 0,
+            "lab": 0.5
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.C204",
+          "title": {
+            "ja": "融合デザインプロジェクトマネジメント"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 1,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.M201",
+          "title": {
+            "ja": "常微分方程式と物理現象"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 1,
+            "lab": 0
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.M202",
+          "title": {
+            "ja": "偏微分方程式と物理現象"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 1,
+            "lab": 0
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.M203",
+          "title": {
+            "ja": "線形システム論"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 1,
+            "lab": 0
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.M204",
+          "title": {
+            "ja": "統計とデータ解析"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 1,
+            "lab": 0
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.K211",
+          "title": {
+            "ja": "機械力学"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1.5,
+            "exercise": 0.5,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.K212",
+          "title": {
+            "ja": "熱力学（機械）"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1.5,
+            "exercise": 0.5,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.K213",
+          "title": {
+            "ja": "基礎流体力学"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.K214",
+          "title": {
+            "ja": "実在流体力学"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1.5,
+            "exercise": 0.5,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.K215",
+          "title": {
+            "ja": "機械材料工学"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.K218",
+          "title": {
+            "ja": "ロボット機構学"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.K219",
+          "title": {
+            "ja": "計算力学基礎"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 1,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A307",
+          "title": {
+            "ja": "Programming and numerical analysis"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 1,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A318",
+          "title": {
+            "ja": "起業家精神とデザイン思考"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 800,
+          "code": "TSE.A821",
+          "title": {
+            "ja": "of engineering materials 1-0-0 15"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A322",
+          "title": {
+            "ja": "Communication and network                                 A"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A324",
+          "title": {
+            "ja": "analysis"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 1,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A325",
+          "title": {
+            "ja": "融合理工学と"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0.5,
+            "exercise": 0.5,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A326",
+          "title": {
+            "ja": "データサイエンス(I)"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0.5,
+            "exercise": 0.5,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A335",
+          "title": {
+            "ja": "and global environment 1"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A336",
+          "title": {
+            "ja": "and global environment 2"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A337",
+          "title": {
+            "ja": "Basic Nuclear Engineering 1                               A"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A338",
+          "title": {
+            "ja": "Basic Nuclear Engineering 2                               A"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A339",
+          "title": {
+            "ja": "Basic Nuclear Engineering 3                               A"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A340",
+          "title": {
+            "ja": "Basic Nuclear Engineering 4                               A"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A341",
+          "title": {
+            "ja": "国際エンジニアリングデザイ"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A342",
+          "title": {
+            "ja": "国際エンジニアリングデザイ"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A343",
+          "title": {
+            "ja": "Systems Design"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A344",
+          "title": {
+            "ja": "sensing"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A345",
+          "title": {
+            "ja": "(Modeling of Society and"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A351",
+          "title": {
+            "ja": "(Transdisciplinary"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 1
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A352",
+          "title": {
+            "ja": "(Transdisciplinary"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 1
+          },
+          "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C301",
+          "title": {
+            "ja": "International Development"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C302",
+          "title": {
+            "ja": "Environment and Society"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C304",
+          "title": {
+            "ja": "国際プロジェクト演習"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0.5,
+            "exercise": 0.5,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C312",
+          "title": {
+            "ja": "Policy and Social System"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C317",
+          "title": {
+            "ja": "Research:theory and practice"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0.5,
+            "exercise": 0.5,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C321",
+          "title": {
+            "ja": "（エネルギーと環境（融合理"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0.5,
+            "exercise": 0.5,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C341",
+          "title": {
+            "ja": "融合理工学海外研修"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 1
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C342",
+          "title": {
+            "ja": "融合理工学海外研修"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 1
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C343",
+          "title": {
+            "ja": "融合理工学海外研修                                                 C"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 1
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C344",
+          "title": {
+            "ja": "融合理工学海外研修"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 1
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C345",
+          "title": {
+            "ja": "融合理工学海外研修"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 2
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C346",
+          "title": {
+            "ja": "融合理工学海外研修"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 2
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C347",
+          "title": {
+            "ja": "融合理工学海外研修"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 2
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C348",
+          "title": {
+            "ja": "融合理工学海外研修"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 2
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C349",
+          "title": {
+            "ja": "融合理工学海外研修"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 3
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C350",
+          "title": {
+            "ja": "融合理工学海外研修"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 3
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C351",
+          "title": {
+            "ja": "融合理工学海外研修"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 3
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C352",
+          "title": {
+            "ja": "融合理工学海外研修"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 3
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C353",
+          "title": {
+            "ja": "融合理工学海外研修"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
           "level": 300,
           "code": "TSE.C354",
           "title": {
             "ja": "融合理工学海外研修（長期）B"
           },
-          "credits": {
-            "lecture": 0,
-            "exercise": 0,
-            "lab": 4
-          },
           "sourceKind": "course-table",
           "sourcePages": [
-            4,
-            5,
-            11
+            5
           ],
-          "note": "Verified against official OCR text and page PNG review"
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence"
         },
         {
           "category": {
@@ -18293,172 +19536,253 @@
           "title": {
             "ja": "融合理工学海外研修（長期）C"
           },
-          "credits": {
-            "lecture": 0,
-            "exercise": 0,
-            "lab": 4
-          },
           "sourceKind": "course-table",
           "sourcePages": [
-            4,
-            5,
-            11
+            5
           ],
-          "note": "Verified against official OCR text and page PNG review"
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence"
         },
         {
           "category": {
             "ja": "融合理工学系"
           },
           "level": 300,
-          "code": "TSE.C356",
+          "code": "TSE.Z380",
           "title": {
-            "ja": "融合理工学海外研修（長期）D"
-          },
-          "credits": {
-            "lecture": 0,
-            "exercise": 0,
-            "lab": 4
+            "ja": "学士特定課題研究 S（融合理工学系）"
           },
           "sourceKind": "course-table",
           "sourcePages": [
-            4,
-            5,
-            11
+            7
           ],
-          "note": "Verified against official OCR text and page PNG review"
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "mark": "required"
         },
         {
           "category": {
             "ja": "融合理工学系"
           },
           "level": 300,
-          "code": "TSE.C373",
+          "code": "TSE.Z399",
           "title": {
-            "ja": "融合理工学インターンシップ（長期）A"
-          },
-          "credits": {
-            "lecture": 0,
-            "exercise": 0,
-            "lab": 4
+            "ja": "学士特定課題プロジェクト（融合理"
           },
           "sourceKind": "course-table",
           "sourcePages": [
-            4,
-            5,
-            11
+            7
           ],
-          "note": "Verified against official OCR text and page PNG review"
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "mark": "required"
         },
         {
           "category": {
             "ja": "融合理工学系"
           },
           "level": 300,
-          "code": "TSE.C374",
+          "code": "TSE.C331",
           "title": {
-            "ja": "融合理工学インターンシップ（長期）B"
-          },
-          "credits": {
-            "lecture": 0,
-            "exercise": 0,
-            "lab": 4
+            "ja": "Communication for Engineers"
           },
           "sourceKind": "course-table",
           "sourcePages": [
-            4,
-            5,
-            11
+            7
           ],
-          "note": "Verified against official OCR text and page PNG review"
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          }
         },
         {
           "category": {
             "ja": "融合理工学系"
           },
           "level": 300,
-          "code": "TSE.C375",
+          "code": "TSE.K314",
           "title": {
-            "ja": "融合理工学インターンシップ（長期）C"
-          },
-          "credits": {
-            "lecture": 0,
-            "exercise": 0,
-            "lab": 4
+            "ja": "加工学概論"
           },
           "sourceKind": "course-table",
           "sourcePages": [
-            4,
-            5,
-            11
+            7
           ],
-          "note": "Verified against official OCR text and page PNG review"
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
         },
         {
           "category": {
             "ja": "融合理工学系"
           },
           "level": 300,
-          "code": "TSE.C376",
+          "code": "TSE.E311",
           "title": {
-            "ja": "融合理工学インターンシップ（長期）D"
-          },
-          "credits": {
-            "lecture": 0,
-            "exercise": 0,
-            "lab": 4
+            "ja": "電子計測"
           },
           "sourceKind": "course-table",
           "sourcePages": [
-            4,
-            5,
-            11
+            7
           ],
-          "note": "Verified against official OCR text and page PNG review"
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
         },
         {
           "category": {
             "ja": "融合理工学系"
           },
           "level": 300,
-          "code": "TSE.Z389",
+          "code": "TSE.E312",
           "title": {
-            "ja": "学士特定課題研究"
-          },
-          "credits": {
-            "lecture": 0,
-            "exercise": 0,
-            "lab": 4
+            "ja": "電気機器工学"
           },
           "sourceKind": "course-table",
           "sourcePages": [
-            4,
-            5,
-            11
+            7
           ],
-          "note": "Verified against official OCR text and page PNG review"
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
         },
         {
           "category": {
             "ja": "融合理工学系"
           },
           "level": 300,
-          "code": "TSE.Z391",
+          "code": "TSE.H317",
           "title": {
-            "ja": "学士特定課題プロジェクト"
-          },
-          "credits": {
-            "lecture": 0,
-            "exercise": 0,
-            "lab": 6
+            "ja": "放射化学"
           },
           "sourceKind": "course-table",
           "sourcePages": [
-            4,
-            5,
-            11
+            7
           ],
-          "note": "Verified against official OCR text and page PNG review"
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.H321",
+          "title": {
+            "ja": "分離工学１（流体系）"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            7
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.H322",
+          "title": {
+            "ja": "プロセス制御工学"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            7
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.H325",
+          "title": {
+            "ja": "（CAP.G307）"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            7
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence",
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          }
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 200,
+          "code": "TSE.A208",
+          "title": {
+            "ja": "SE.A233. にココ 3 y 1 — eS 上"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            9
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A302",
+          "title": {
+            "ja": "Mechanics of strength"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            10
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.A303",
+          "title": {
+            "ja": "専門                           （強度の力学）"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            10
+          ],
+          "note": "Verified against 2025 official OCR text and page PNG; OCR code suffix retained in source evidence"
         }
       ]
     }

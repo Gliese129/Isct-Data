@@ -9,6 +9,7 @@ Course extraction rules:
 - Keep the base course code for matching and preserve the full PDF code/suffix in `note`. Store exact Japanese titles and published credits. Omit fields the PDF does not publish; never use zero as a placeholder.
 - Parse first, compare extracted codes against the PDF, then visually inspect every difference and wrapped or diagram row. Curriculum-map entries that cannot be matched to a code belong in extraction notes, not invented records.
 - A table row may place a wrapped Japanese title above the code line and continue it below; reconstruct the title from the table column and compare code coverage before accepting the row.
+- A complete department array must come from the complete published table; adding only a missing-code patch is insufficient. Codes in parentheses or equivalent-course notes are references, not independent rows, unless their own table row has its own title and credits.
 
 Calendar and exam rules:
 
