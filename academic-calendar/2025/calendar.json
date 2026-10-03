@@ -5,6 +5,10 @@
     {
       "title": "Science Tokyo 2025年度 授業日程",
       "url": "https://www.titech.ac.jp/student/students/life/schedules/2025"
+    },
+    {
+      "title": "内閣府 国民の祝日・休日",
+      "url": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html"
     }
   ],
   "quarters": {
@@ -99,6 +103,13 @@
   },
   "days": [
     {
+      "date": "2025-04-29",
+      "type": "holiday",
+      "label": {
+        "ja": "昭和の日（国民の祝日）"
+      }
+    },
+    {
       "date": "2025-05-02",
       "type": "replacement",
       "replacementDay": 2,
@@ -107,10 +118,73 @@
       }
     },
     {
+      "date": "2025-05-03",
+      "type": "holiday",
+      "label": {
+        "ja": "憲法記念日（国民の祝日）"
+      }
+    },
+    {
+      "date": "2025-05-04",
+      "type": "holiday",
+      "label": {
+        "ja": "みどりの日（国民の祝日）"
+      }
+    },
+    {
+      "date": "2025-05-05",
+      "type": "holiday",
+      "label": {
+        "ja": "こどもの日（国民の祝日）"
+      }
+    },
+    {
+      "date": "2025-05-06",
+      "type": "holiday",
+      "label": {
+        "ja": "休日（国民の祝日）"
+      }
+    },
+    {
       "date": "2025-05-24",
       "type": "no-class",
       "label": {
         "ja": "ホームカミングデイ（大岡山）のため授業休み"
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "type": "holiday",
+      "label": {
+        "ja": "海の日（国民の祝日）"
+      }
+    },
+    {
+      "date": "2025-08-11",
+      "type": "holiday",
+      "label": {
+        "ja": "山の日（国民の祝日）"
+      }
+    },
+    {
+      "date": "2025-09-15",
+      "type": "holiday",
+      "label": {
+        "ja": "敬老の日（国民の祝日）"
+      }
+    },
+    {
+      "date": "2025-09-23",
+      "type": "holiday",
+      "label": {
+        "ja": "秋分の日（国民の祝日）"
+      }
+    },
+    {
+      "date": "2025-10-13",
+      "type": "holiday",
+      "label": {
+        "ja": "スポーツの日（国民の祝日）"
       }
     },
     {
@@ -165,11 +239,32 @@
       }
     },
     {
+      "date": "2025-11-23",
+      "type": "holiday",
+      "label": {
+        "ja": "勤労感謝の日（国民の祝日）"
+      }
+    },
+    {
       "date": "2025-11-24",
       "type": "replacement",
       "replacementDay": 1,
       "label": {
         "ja": "月曜日の授業（祝日）"
+      }
+    },
+    {
+      "date": "2026-01-01",
+      "type": "holiday",
+      "label": {
+        "ja": "元日（国民の祝日）"
+      }
+    },
+    {
+      "date": "2026-01-12",
+      "type": "holiday",
+      "label": {
+        "ja": "成人の日（国民の祝日）"
       }
     },
     {
@@ -192,6 +287,27 @@
       "type": "no-class",
       "label": {
         "ja": "大学入学共通テスト（準備含む）のため授業休み"
+      }
+    },
+    {
+      "date": "2026-02-11",
+      "type": "holiday",
+      "label": {
+        "ja": "建国記念の日（国民の祝日）"
+      }
+    },
+    {
+      "date": "2026-02-23",
+      "type": "holiday",
+      "label": {
+        "ja": "天皇誕生日（国民の祝日）"
+      }
+    },
+    {
+      "date": "2026-03-20",
+      "type": "holiday",
+      "label": {
+        "ja": "春分の日（国民の祝日）"
       }
     }
   ]
