@@ -18,5 +18,7 @@ Calendar and exam rules:
 Localization and completeness:
 
 - Japanese is authoritative. An English translation must be labelled `labelEnglishSource: "translation"`; an official English string is labelled `official`.
+- `labelEnglishSource` applies to important-date labels only. Exam `label.en` is copied only when the exam PDF supplies an official English title; do not add that field to exam entries for translations.
+- Use the flat public paths (`academic-calendar/2025.json`, `departments/2025.json`, `important-dates/2025.json`, and `exam/{undergraduate,graduate}/2026-2q.json`). Do not create empty files for an unpublished year. Keep unsupported provenance such as hash/retrieval details in a review sidecar until the active schema supports it; never add unknown fields to schema-constrained records.
 - Every source must retain the official landing page and artifact URL. Missing historical editions are documented as gaps; they are never represented as a claim that no course or exam exists.
 - Resolve each department's guide filename from its stored `guidePdf`; never enumerate a shortened department list to infer PDF numbers. Missing text conversion is a review failure, not a zero-course result. For font-encoded or image PDFs, retain the official PDF and page PNG/OCR evidence, decode only the verified glyph mapping, and visually compare course-code differences before publishing.
