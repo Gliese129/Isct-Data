@@ -8467,6 +8467,36 @@
           ],
           "note": "Official course-table code: ICT.Z399.R",
           "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "情報通信系"
+          },
+          "level": 300,
+          "code": "ICT.D301",
+          "title": {
+            "ja": "情報通信技術を用いたサービスデザイン"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Added from verified department course-table code/title row"
+        },
+        {
+          "category": {
+            "ja": "情報通信系"
+          },
+          "level": 300,
+          "code": "ICT.E314",
+          "title": {
+            "ja": "情報通信実験 4"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Added from verified department course-table code/title row"
         }
       ]
     },
@@ -13798,6 +13828,41 @@
           ],
           "note": "Official course-table code: MCS.Z399.R",
           "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "数理・計算科学系"
+          },
+          "level": 200,
+          "code": "MCS.T221",
+          "title": {
+            "ja": "集合と位相第二"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Added from verified department course-table code/title row"
+        },
+        {
+          "category": {
+            "ja": "数理・計算科学系"
+          },
+          "level": 300,
+          "code": "MCS.T313",
+          "title": {
+            "ja": "数理論理学"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Added from verified department course-table code/title row"
         }
       ]
     },
@@ -15995,6 +16060,21 @@
           ],
           "note": "Official course-table code: LST.Z399.R",
           "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "生命理工学系"
+          },
+          "level": 200,
+          "code": "LST.A270",
+          "title": {
+            "ja": "アントレプレナーシップ入門"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Added from verified department course-table code/title row"
         }
       ]
     },
@@ -20970,6 +21050,186 @@
             8
           ],
           "note": "Official course-table code: TSE.D320.L"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C354",
+          "title": {
+            "ja": "融合理工学海外研修（長期）B"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Added from verified department course-table code/title row"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C355",
+          "title": {
+            "ja": "融合理工学海外研修（長期）C"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            5
+          ],
+          "note": "Added from verified department course-table code/title row"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C356",
+          "title": {
+            "ja": "融合理工学海外研修（長期）D"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            6
+          ],
+          "note": "Added from verified department course-table code/title row"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C373",
+          "title": {
+            "ja": "融合理工学インターンシップ（長期）A"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            7
+          ],
+          "note": "Added from verified department course-table code/title row"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C374",
+          "title": {
+            "ja": "融合理工学インターンシップ（長期）B"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            7
+          ],
+          "note": "Added from verified department course-table code/title row"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C375",
+          "title": {
+            "ja": "融合理工学インターンシップ（長期）C"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            7
+          ],
+          "note": "Added from verified department course-table code/title row"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C376",
+          "title": {
+            "ja": "融合理工学インターンシップ（長期）D"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            7
+          ],
+          "note": "Added from verified department course-table code/title row"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.Z389",
+          "title": {
+            "ja": "学士特定課題研究"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            12
+          ],
+          "note": "Added from verified department course-table code/title row"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.Z391",
+          "title": {
+            "ja": "学士特定課題プロジェクト"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 6
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            12
+          ],
+          "note": "Added from verified department course-table code/title row"
         }
       ]
     }

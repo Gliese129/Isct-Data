@@ -8598,6 +8598,36 @@
           ],
           "note": "Official course-table code: ICT.Z399.R",
           "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "情報通信系"
+          },
+          "level": 300,
+          "code": "ICT.D301",
+          "title": {
+            "ja": "情報通信技術を用いたサービスデザイン"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Added from verified department course-table code/title row"
+        },
+        {
+          "category": {
+            "ja": "情報通信系"
+          },
+          "level": 300,
+          "code": "ICT.E314",
+          "title": {
+            "ja": "情報通信実験 4"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Added from verified department course-table code/title row"
         }
       ]
     },
@@ -11773,6 +11803,26 @@
           ],
           "note": "Official course-table code: MAT.Z399.L",
           "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "材料系"
+          },
+          "level": 300,
+          "code": "MAT.A303",
+          "title": {
+            "ja": "人間医療科学技術基礎概論"
+          },
+          "credits": {
+            "lecture": 1,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Added from verified department course-table code/title row"
         }
       ]
     },
@@ -14016,6 +14066,46 @@
           ],
           "note": "Official course-table code: MCS.Z399.R",
           "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "数理・計算科学系"
+          },
+          "level": 200,
+          "code": "MCS.T214",
+          "title": {
+            "ja": "オートマトンと数理言語論"
+          },
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "note": "Added from verified department course-table code/title row"
+        },
+        {
+          "category": {
+            "ja": "数理・計算科学系"
+          },
+          "level": 300,
+          "code": "MCS.T312",
+          "title": {
+            "ja": "マルコフ解析"
+          },
+          "credits": {
+            "lecture": 2,
+            "exercise": 0,
+            "lab": 0
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Added from verified department course-table code/title row"
         }
       ]
     },
@@ -16233,6 +16323,21 @@
           ],
           "note": "Official course-table code: LST.Z399.R",
           "mark": "required"
+        },
+        {
+          "category": {
+            "ja": "生命理工学系"
+          },
+          "level": 200,
+          "code": "LST.A270",
+          "title": {
+            "ja": "アントレプレナーシップ入門"
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "note": "Added from verified department course-table code/title row"
         }
       ]
     },
