@@ -19,3 +19,4 @@ Localization and completeness:
 
 - Japanese is authoritative. An English translation must be labelled `labelEnglishSource: "translation"`; an official English string is labelled `official`.
 - Every source must retain the official landing page and artifact URL. Missing historical editions are documented as gaps; they are never represented as a claim that no course or exam exists.
+- Resolve each department's guide filename from its stored `guidePdf`; never enumerate a shortened department list to infer PDF numbers. Missing text conversion is a review failure, not a zero-course result. For font-encoded or image PDFs, retain the official PDF and page PNG/OCR evidence, decode only the verified glyph mapping, and visually compare course-code differences before publishing.

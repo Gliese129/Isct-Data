@@ -2901,6 +2901,57 @@
           "content": [
             "E"
           ]
+        },
+        {
+          "category": {
+            "ja": "化学系"
+          },
+          "level": 300,
+          "code": "CHM.C305",
+          "title": {
+            "ja": "物理化学総合実験"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 2
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            2
+          ],
+          "content": [
+            "D",
+            "E"
+          ],
+          "mark": "required",
+          "note": "Verified against decoded official PDF row"
+        },
+        {
+          "category": {
+            "ja": "化学系"
+          },
+          "level": 300,
+          "code": "CHM.Z399",
+          "title": {
+            "ja": "学士特定課題プロジェクト（化学系）"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 6
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            3
+          ],
+          "content": [
+            "A",
+            "C",
+            "E"
+          ],
+          "mark": "required",
+          "note": "Verified against decoded official PDF row"
         }
       ]
     },
@@ -18210,7 +18261,206 @@
       "syllabusScope": "6/0-906-362700-0-0",
       "unitCode": "362700",
       "guidePdf": "https://www.titech.ac.jp/guide/guide_2025/gakubu1/pdf/26-17.pdf",
-      "recommended": []
+      "recommended": [
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C354",
+          "title": {
+            "ja": "融合理工学海外研修（長期）B"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4,
+            5,
+            11
+          ],
+          "note": "Verified against official OCR text and page PNG review"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C355",
+          "title": {
+            "ja": "融合理工学海外研修（長期）C"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4,
+            5,
+            11
+          ],
+          "note": "Verified against official OCR text and page PNG review"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C356",
+          "title": {
+            "ja": "融合理工学海外研修（長期）D"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4,
+            5,
+            11
+          ],
+          "note": "Verified against official OCR text and page PNG review"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C373",
+          "title": {
+            "ja": "融合理工学インターンシップ（長期）A"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4,
+            5,
+            11
+          ],
+          "note": "Verified against official OCR text and page PNG review"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C374",
+          "title": {
+            "ja": "融合理工学インターンシップ（長期）B"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4,
+            5,
+            11
+          ],
+          "note": "Verified against official OCR text and page PNG review"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C375",
+          "title": {
+            "ja": "融合理工学インターンシップ（長期）C"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4,
+            5,
+            11
+          ],
+          "note": "Verified against official OCR text and page PNG review"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.C376",
+          "title": {
+            "ja": "融合理工学インターンシップ（長期）D"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4,
+            5,
+            11
+          ],
+          "note": "Verified against official OCR text and page PNG review"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.Z389",
+          "title": {
+            "ja": "学士特定課題研究"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 4
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4,
+            5,
+            11
+          ],
+          "note": "Verified against official OCR text and page PNG review"
+        },
+        {
+          "category": {
+            "ja": "融合理工学系"
+          },
+          "level": 300,
+          "code": "TSE.Z391",
+          "title": {
+            "ja": "学士特定課題プロジェクト"
+          },
+          "credits": {
+            "lecture": 0,
+            "exercise": 0,
+            "lab": 6
+          },
+          "sourceKind": "course-table",
+          "sourcePages": [
+            4,
+            5,
+            11
+          ],
+          "note": "Verified against official OCR text and page PNG review"
+        }
+      ]
     }
   ]
 }
